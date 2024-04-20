@@ -16,7 +16,7 @@ Age,Customer Age
 Age_Demographic_Baby Boomer,Year of birth <=1964
 Age_Demographic_Gen X,Year of birth <=1980 and > 1964
 Age_Demographic_Gen Y,Year of birth <= 1996 and > 1980
-,
+Age_Demographic_Gen Z,Year of birth > 1996
 Enroll_Year,Membership enrollment Year
 Enroll_Month,Membership enrollment Month
 Enroll_Day,Membership enrollment Day
