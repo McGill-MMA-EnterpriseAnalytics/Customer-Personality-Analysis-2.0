@@ -1,0 +1,71 @@
+People Data Section,
+ID,Customer's unique identifier
+Year_Birth,Customer's birth year
+Income,Customer's monthly household income
+Income_Category_High,Income > 12427
+Income_Category_Low,Income <= 2333
+Income_Category_Medium,Income <= 12427 and > 2333
+Kidhome,Number of children in customer's household
+Teenhome,Number of teenagers in customer's household
+Complain,"1 if the customer complained in the last 2 years, 0 otherwise"
+Total_Children,Kidhome + Teenhome
+Is_Parent,Total_Children > 0
+Family_Size,"Size of the family unit, computed from marital status and total children, with married/cohabiting couples as 2, and other statuses plus total children as 1."
+Recency,Number of days since customer's last purchase
+Age,Customer Age
+Age_Demographic_Baby Boomer,Year of birth <=1964
+Age_Demographic_Gen X,Year of birth <=1980 and > 1964
+Age_Demographic_Gen Y,Year of birth <= 1996 and > 1980
+,
+Enroll_Year,Membership enrollment Year
+Enroll_Month,Membership enrollment Month
+Enroll_Day,Membership enrollment Day
+Member_Year,How many years this customer has been a member
+Education_Basic,
+Education_Graduation,
+Education_Master,
+Education_PhD,
+Marital_Status_Alone,
+Marital_Status_Divorced,
+Marital_Status_Married,
+Marital_Status_Single,
+Marital_Status_Together,
+Marital_Status_Widow,
+Marital_Status_YOLO,
+,
+Products Data Section,
+MntWines,Amount spent on wine in last 2 years
+MntFruits,Amount spent on fruits in last 2 years
+MntMeatProducts,Amount spent on meat in last 2 years
+MntFishProducts,Amount spent on fish in last 2 years
+MntSweetProducts,Amount spent on sweets in last 2 years
+MntGoldProds,Amount spent on gold in last 2 years
+Total_amount,"Sum of amount spent on wines, fruits, meat, fish, sweet and gold."
+NumWebPurchases,Number of purchases made through the company’s website
+NumCatalogPurchases,Number of purchases made using a catalogue
+NumStorePurchases,Number of purchases made directly in stores
+Total_purchase,"Sum of web, catalog, store purchase for each customer"
+NumWebVisitsMonth,Number of visits to company’s website in the last month
+,
+Promotion Data Section,
+NumDealsPurchases,Number of purchases made with a discount
+AcceptedCmp1,"1 if customer accepted the offer in the 1st campaign, 0 otherwise"
+AcceptedCmp2,"1 if customer accepted the offer in the 2nd campaign, 0 otherwise"
+AcceptedCmp3,"1 if customer accepted the offer in the 3rd campaign, 0 otherwise"
+AcceptedCmp4,"1 if customer accepted the offer in the 4th campaign, 0 otherwise"
+AcceptedCmp5,"1 if customer accepted the offer in the 5th campaign, 0 otherwise"
+Response,"1 if customer accepted the offer in the last campaign, 0 otherwise"
+Cmp_Attitude,"If sum of accepted cmp 1-5 > 0 then 1, otherwise 0"
+,
+RFM related Data Section,
+R,If recency < median recency
+F,If Total puchase times > median purchase times
+M,If Total puchased amount > median puchase amount
+RFM_Group_About To Sleep,RFM 100
+RFM_Group_At Risk,RFM 110
+RFM_Group_Hibernating,RFM 000
+RFM_Group_Loyalist,RFM 111
+RFM_Group_Need Attention,RFM 010
+RFM_Group_New Customers,RFM 101
+RFM_Group_Potential Loyalist,RFM 011
+RFM_Group_Promising,RFM 001
