@@ -9,4 +9,4 @@ def display_data_catalog():
     # Display the data catalog in a table
     st.table(data_catalog)
 
-def display_data_catalog()
+display_data_catalog()
