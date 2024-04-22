@@ -41,7 +41,7 @@ with tab1:
 with tab2:
     st.header("Power BI Report")
     # Replace `your_powerbi_embed_url` with the actual URL of your Power BI report
-    powerbi_embed_url = "your_powerbi_embed_url"
+    powerbi_embed_url = "https://app.powerbi.com/groups/me/reports/57eb479c-bab5-4078-981c-e312dd61e67a/ReportSection?experience=power-bi"
     st.components.v1.html(f"""
         <iframe width="100%" height="600" src="{powerbi_embed_url}" frameborder="0" allowFullScreen="true"></iframe>
     """, height=620)
