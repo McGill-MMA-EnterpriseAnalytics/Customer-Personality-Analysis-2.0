@@ -22,12 +22,16 @@ apple_style_css = """
 # Embed the CSS
 st.markdown(apple_style_css, unsafe_allow_html=True)
 
+st.write("""
+# Customer-Personality-Analysis-2.0 Project
+""")
+
 # Setup tabs
-tab1, tab2 = st.tabs(["Customer Data", "Power BI Embed"])
+tab1, tab2 = st.tabs(["Customer Data Catalog", "Power BI Embed"])
 
 # Tab 1: Display customer data
 with tab1:
-    st.header("Customer Data")
+    st.header("Customer Data Catalog")
     # Example data
     data = pd.read_csv('https://raw.githubusercontent.com/McGill-MMA-EnterpriseAnalytics/Customer-Personality-Analysis-2.0/main/Data/Preprocessed%20Data/Final%20Preprocessed%20Data.csv?token=GHSAT0AAAAAACL3VCJB4QQSO53AD2M7BBPIZRGSKYA')
     df = pd.DataFrame(data)
