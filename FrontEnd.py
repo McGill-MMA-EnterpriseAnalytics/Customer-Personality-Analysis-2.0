@@ -1,9 +1,12 @@
-"""
-# My first app
-Here's our first attempt at using data to create a table:
-"""
 
 import streamlit as st
 import pandas as pd
 
-print("Customer Management System")
+def display_data_catalog():
+    # Read the data catalog file
+    data_catalog = pd.read_csv('/Users/kellyliu/Documents/GitHub/Customer-Personality-Analysis-2.0/Data/Preprocessed Data/Final Preprocessed Data.csv')
+
+    # Display the data catalog in a table
+    st.table(data_catalog)
+
+def display_data_catalog()
