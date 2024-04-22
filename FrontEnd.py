@@ -33,7 +33,7 @@ tab1, tab2 = st.tabs(["Customer Data Catalog", "Power BI Embed"])
 with tab1:
     st.header("Customer Data Catalog")
     # Example data
-    data = pd.read_csv('https://raw.githubusercontent.com/McGill-MMA-EnterpriseAnalytics/Customer-Personality-Analysis-2.0/main/Data/Preprocessed%20Data/Final%20Preprocessed%20Data.csv?token=GHSAT0AAAAAACL3VCJB4QQSO53AD2M7BBPIZRGSKYA')
+    data = pd.read_csv('https://raw.githubusercontent.com/McGill-MMA-EnterpriseAnalytics/Customer-Personality-Analysis-2.0/main/Data/Clustered%20Data/Clustered_Test_Data.csv?token=GHSAT0AAAAAACL3VCJB23KMGO23VCMY3QBGZRGW5PA')
     df = pd.DataFrame(data)
     st.write(df)
 
