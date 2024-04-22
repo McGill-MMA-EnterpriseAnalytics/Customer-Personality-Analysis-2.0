@@ -23,7 +23,7 @@ apple_style_css = """
 st.markdown(apple_style_css, unsafe_allow_html=True)
 
 st.write("""
-# Customer-Personality-Analysis-2.0 Project
+# Customer-Personality-Analysis-2.0
 """)
 
 # Setup tabs
