@@ -1,50 +1,36 @@
 import streamlit as st
-import pandas as pd
+import requests
+import json
 
-# CSS to emulate Apple's style
-apple_style_css = """
-    <style>
-        html, body, [class*="css"] {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            color: #333;
-            background-color: #f5f5f7;
-        }
-        .stApp {
-            max-width: 800px;
-            margin: auto;
-        }
-        header, .reportview-container .main footer {
-            display: none;
-        }
-    </style>
-"""
+# Define the URL of the MLflow model
+MLFLOW_API_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 
-# Embed the CSS
-st.markdown(apple_style_css, unsafe_allow_html=True)
+# Streamlit app layout
+st.title('ML Model Prediction Interface')
+st.write('Please input the features for model prediction.')
 
-st.write("""
-# Customer-Personality-Analysis-2.0
-""")
+# Collecting user inputs
+feature_1 = st.number_input('Enter feature 1')
+feature_2 = st.number_input('Enter feature 2')
+feature_3 = st.number_input('Enter feature 3')
 
-# Setup tabs
-tab1, tab2 = st.tabs(["Customer Data Catalog", "Power BI Embed"])
+# Button to make prediction
+if st.button('Predict'):
+    # Prepare the data in the format the MLflow model expects
+    data = json.dumps({
+        "columns": ["feature_1", "feature_2", "feature_3"],
+        "data": [[feature_1, feature_2, feature_3]]
+    })
+    headers = {'Content-Type': 'application/json'}
+    
+    # Send the data to the model
+    response = requests.post(MLFLOW_API_URL, data=data, headers=headers)
+    
+    if response.status_code == 200:
+        result = response.json()
+        st.success(f'Result: {result}')
+    else:
+        st.error('Failed to get prediction from the model.')
 
-# Tab 1: Display customer data
-with tab1:
-    st.header("Customer Data Catalog")
-    # Example data
-    data = pd.read_csv('https://raw.githubusercontent.com/McGill-MMA-EnterpriseAnalytics/Customer-Personality-Analysis-2.0/main/Data/Clustered%20Data/Clustered_Test_Data.csv?token=GHSAT0AAAAAACL3VCJB23KMGO23VCMY3QBGZRGW5PA')
-    df = pd.DataFrame(data)
-    st.write(df)
-
-# Tab 2: Power BI Embed
-with tab2:
-    st.header("Power BI Report")
-    # Replace `your_powerbi_embed_url` with the actual URL of your Power BI report
-    powerbi_embed_url = "https://app.powerbi.com/groups/me/reports/57eb479c-bab5-4078-981c-e312dd61e67a/ReportSection?experience=power-bi"
-    st.components.v1.html(f"""
-        <iframe width="100%" height="600" src="{powerbi_embed_url}" frameborder="0" allowFullScreen="true"></iframe>
-    """, height=620)
-
-# Run the Streamlit app by navigating to the folder containing this script and typing:
-# streamlit run app.py
+# Displaying the model output
+st.write('The model output will be displayed here once you input the features and click predict.')
