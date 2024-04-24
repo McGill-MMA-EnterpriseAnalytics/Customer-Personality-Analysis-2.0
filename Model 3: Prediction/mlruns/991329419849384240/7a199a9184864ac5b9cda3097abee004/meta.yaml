@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/7a199a9184864ac5b9cda3097abee004/artifacts
+end_time: 1714002216174
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 7a199a9184864ac5b9cda3097abee004
+run_name: unequaled-lamb-659
+run_uuid: 7a199a9184864ac5b9cda3097abee004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002210434
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/65756d7838614e3a84a458f9e555974a/artifacts
+end_time: 1714002042070
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 65756d7838614e3a84a458f9e555974a
+run_name: shivering-lynx-588
+run_uuid: 65756d7838614e3a84a458f9e555974a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002042022
+status: 4
+tags: []
+user_id: kellyliu

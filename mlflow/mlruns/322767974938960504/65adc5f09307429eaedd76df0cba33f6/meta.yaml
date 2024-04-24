@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322767974938960504/65adc5f09307429eaedd76df0cba33f6/artifacts
+end_time: 1714001341275
+entry_point_name: ''
+experiment_id: '322767974938960504'
+lifecycle_stage: active
+run_id: 65adc5f09307429eaedd76df0cba33f6
+run_name: smiling-pig-220
+run_uuid: 65adc5f09307429eaedd76df0cba33f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714001339202
+status: 3
+tags: []
+user_id: kellyliu

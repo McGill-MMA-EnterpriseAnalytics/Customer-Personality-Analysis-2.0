@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/991329419849384240
+creation_time: 1714001602979
+experiment_id: '991329419849384240'
+last_update_time: 1714001602979
+lifecycle_stage: active
+name: Customer_Segment_Prediction_Model

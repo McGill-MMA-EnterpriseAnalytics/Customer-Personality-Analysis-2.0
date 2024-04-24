@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/5aef540bef7b41e1b6fdcbbe145bd1c3/artifacts
+end_time: 1714002107396
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 5aef540bef7b41e1b6fdcbbe145bd1c3
+run_name: indecisive-bear-140
+run_uuid: 5aef540bef7b41e1b6fdcbbe145bd1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002105713
+status: 3
+tags: []
+user_id: kellyliu

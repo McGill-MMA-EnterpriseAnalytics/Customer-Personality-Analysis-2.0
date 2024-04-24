@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714002107394
+current_stage: Production
+description: ''
+last_updated_timestamp: 1714002312671
+name: Customer_Segment_Prediction_Model
+run_id: 5aef540bef7b41e1b6fdcbbe145bd1c3
+run_link: ''
+source: mlflow-artifacts:/991329419849384240/5aef540bef7b41e1b6fdcbbe145bd1c3/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/991329419849384240/5aef540bef7b41e1b6fdcbbe145bd1c3/artifacts/model
+user_id: null
+version: 1
