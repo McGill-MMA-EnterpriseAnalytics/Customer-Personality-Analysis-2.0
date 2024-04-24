@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/24636fa904664ea0b5a02f67c3adb062/artifacts
+end_time: 1713995271772
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 24636fa904664ea0b5a02f67c3adb062
+run_name: placid-fawn-513
+run_uuid: 24636fa904664ea0b5a02f67c3adb062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995270173
+status: 3
+tags: []
+user_id: kellyliu

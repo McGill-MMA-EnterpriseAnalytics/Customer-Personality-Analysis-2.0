@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/40133863e99f4e12b535acbe3ee85a04/artifacts
+end_time: 1713994622094
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 40133863e99f4e12b535acbe3ee85a04
+run_name: efficient-hog-705
+run_uuid: 40133863e99f4e12b535acbe3ee85a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994620383
+status: 3
+tags: []
+user_id: kellyliu

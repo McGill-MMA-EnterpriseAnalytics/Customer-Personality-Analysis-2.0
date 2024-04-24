@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/25cc55ec8cbf4a8a9b9543aed5e454d5/artifacts
+end_time: 1713994526135
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 25cc55ec8cbf4a8a9b9543aed5e454d5
+run_name: nervous-skunk-390
+run_uuid: 25cc55ec8cbf4a8a9b9543aed5e454d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994524582
+status: 3
+tags: []
+user_id: kellyliu

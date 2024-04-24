@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d55939fd7c9848f68ed3ff97e1709d3f/artifacts
+end_time: 1713995171529
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d55939fd7c9848f68ed3ff97e1709d3f
+run_name: judicious-yak-33
+run_uuid: d55939fd7c9848f68ed3ff97e1709d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995169965
+status: 3
+tags: []
+user_id: kellyliu

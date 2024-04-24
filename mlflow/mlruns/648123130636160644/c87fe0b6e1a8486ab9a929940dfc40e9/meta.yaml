@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c87fe0b6e1a8486ab9a929940dfc40e9/artifacts
+end_time: 1713995174662
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c87fe0b6e1a8486ab9a929940dfc40e9
+run_name: blushing-robin-265
+run_uuid: c87fe0b6e1a8486ab9a929940dfc40e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995173083
+status: 3
+tags: []
+user_id: kellyliu

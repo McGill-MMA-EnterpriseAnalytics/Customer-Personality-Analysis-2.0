@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/fab3245d27b4408c9377a39cb5186dd9/artifacts
+end_time: 1713994650209
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: fab3245d27b4408c9377a39cb5186dd9
+run_name: dashing-steed-915
+run_uuid: fab3245d27b4408c9377a39cb5186dd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994648682
+status: 3
+tags: []
+user_id: kellyliu

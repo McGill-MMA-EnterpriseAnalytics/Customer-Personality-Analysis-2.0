@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f95083b03aee4491b8f9b6ccfcfa3898/artifacts
+end_time: 1713995252699
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f95083b03aee4491b8f9b6ccfcfa3898
+run_name: treasured-lynx-44
+run_uuid: f95083b03aee4491b8f9b6ccfcfa3898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995251165
+status: 3
+tags: []
+user_id: kellyliu

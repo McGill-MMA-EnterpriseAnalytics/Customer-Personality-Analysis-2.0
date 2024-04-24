@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/43e5be42cfdb4bc8a24e606d2e1e0662/artifacts
+end_time: 1713994587346
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 43e5be42cfdb4bc8a24e606d2e1e0662
+run_name: marvelous-boar-753
+run_uuid: 43e5be42cfdb4bc8a24e606d2e1e0662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994585587
+status: 3
+tags: []
+user_id: kellyliu

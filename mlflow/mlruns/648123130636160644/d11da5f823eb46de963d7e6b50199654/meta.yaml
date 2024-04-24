@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d11da5f823eb46de963d7e6b50199654/artifacts
+end_time: 1713995393248
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d11da5f823eb46de963d7e6b50199654
+run_name: monumental-lamb-117
+run_uuid: d11da5f823eb46de963d7e6b50199654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995391517
+status: 3
+tags: []
+user_id: kellyliu

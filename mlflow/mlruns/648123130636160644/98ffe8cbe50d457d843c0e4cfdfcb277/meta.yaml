@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/98ffe8cbe50d457d843c0e4cfdfcb277/artifacts
+end_time: 1713994478371
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 98ffe8cbe50d457d843c0e4cfdfcb277
+run_name: flawless-sow-74
+run_uuid: 98ffe8cbe50d457d843c0e4cfdfcb277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994476425
+status: 3
+tags: []
+user_id: kellyliu

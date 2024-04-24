@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/146e08a91be346d0ac94f27da1ba182d/artifacts
+end_time: 1713994648671
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 146e08a91be346d0ac94f27da1ba182d
+run_name: abundant-shad-359
+run_uuid: 146e08a91be346d0ac94f27da1ba182d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994647153
+status: 3
+tags: []
+user_id: kellyliu

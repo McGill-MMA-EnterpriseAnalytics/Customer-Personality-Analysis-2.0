@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/bae2d42329054b51a8da5aecfa023fb0/artifacts
+end_time: 1713994347910
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: bae2d42329054b51a8da5aecfa023fb0
+run_name: enthused-mole-664
+run_uuid: bae2d42329054b51a8da5aecfa023fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994345633
+status: 3
+tags: []
+user_id: kellyliu

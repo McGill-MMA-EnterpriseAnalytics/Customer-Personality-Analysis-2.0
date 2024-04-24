@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e677d5b38884447099390ffdc24520ab/artifacts
+end_time: 1713994327681
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e677d5b38884447099390ffdc24520ab
+run_name: caring-grub-417
+run_uuid: e677d5b38884447099390ffdc24520ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994326134
+status: 3
+tags: []
+user_id: kellyliu

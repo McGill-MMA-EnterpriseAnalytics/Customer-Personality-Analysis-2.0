@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f6971df4b6bc4b7ebd3b1a7eb6fb6a9d/artifacts
+end_time: 1713995238915
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f6971df4b6bc4b7ebd3b1a7eb6fb6a9d
+run_name: placid-dog-912
+run_uuid: f6971df4b6bc4b7ebd3b1a7eb6fb6a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995237449
+status: 3
+tags: []
+user_id: kellyliu

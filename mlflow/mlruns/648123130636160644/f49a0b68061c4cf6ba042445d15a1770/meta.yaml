@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f49a0b68061c4cf6ba042445d15a1770/artifacts
+end_time: 1713995092670
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f49a0b68061c4cf6ba042445d15a1770
+run_name: classy-crane-30
+run_uuid: f49a0b68061c4cf6ba042445d15a1770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995090665
+status: 3
+tags: []
+user_id: kellyliu

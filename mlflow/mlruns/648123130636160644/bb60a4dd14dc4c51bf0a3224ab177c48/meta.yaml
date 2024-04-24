@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/bb60a4dd14dc4c51bf0a3224ab177c48/artifacts
+end_time: 1713995414013
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: bb60a4dd14dc4c51bf0a3224ab177c48
+run_name: powerful-hare-953
+run_uuid: bb60a4dd14dc4c51bf0a3224ab177c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995412582
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c258bbcce59c48a3a8c8bd409835cd02/artifacts
+end_time: 1713994659707
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c258bbcce59c48a3a8c8bd409835cd02
+run_name: glamorous-ox-38
+run_uuid: c258bbcce59c48a3a8c8bd409835cd02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994658148
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/af32d7856d04419ba35064ea7875b19b/artifacts
+end_time: 1713994451830
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: af32d7856d04419ba35064ea7875b19b
+run_name: glamorous-panda-873
+run_uuid: af32d7856d04419ba35064ea7875b19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994449558
+status: 3
+tags: []
+user_id: kellyliu

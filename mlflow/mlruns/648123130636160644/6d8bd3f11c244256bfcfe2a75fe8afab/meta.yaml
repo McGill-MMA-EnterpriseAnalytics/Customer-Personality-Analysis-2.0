@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6d8bd3f11c244256bfcfe2a75fe8afab/artifacts
+end_time: 1713994398595
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6d8bd3f11c244256bfcfe2a75fe8afab
+run_name: bittersweet-dove-489
+run_uuid: 6d8bd3f11c244256bfcfe2a75fe8afab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994396450
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/94d2793093724c5da9675101f0ed5e20/artifacts
+end_time: 1713994532762
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 94d2793093724c5da9675101f0ed5e20
+run_name: gaudy-colt-211
+run_uuid: 94d2793093724c5da9675101f0ed5e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994530816
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3a3f4219002148d5b6c3b1cc902df96b/artifacts
+end_time: 1713994489797
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3a3f4219002148d5b6c3b1cc902df96b
+run_name: bright-carp-173
+run_uuid: 3a3f4219002148d5b6c3b1cc902df96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994488022
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/aaf69df4bcaa4d2ea761c645bf24174c/artifacts
+end_time: 1713994444520
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: aaf69df4bcaa4d2ea761c645bf24174c
+run_name: gaudy-shrew-897
+run_uuid: aaf69df4bcaa4d2ea761c645bf24174c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994442973
+status: 3
+tags: []
+user_id: kellyliu

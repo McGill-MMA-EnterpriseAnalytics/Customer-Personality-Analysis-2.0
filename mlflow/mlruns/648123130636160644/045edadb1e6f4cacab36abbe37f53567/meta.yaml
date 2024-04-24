@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/045edadb1e6f4cacab36abbe37f53567/artifacts
+end_time: 1713995060507
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 045edadb1e6f4cacab36abbe37f53567
+run_name: dashing-deer-692
+run_uuid: 045edadb1e6f4cacab36abbe37f53567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995058803
+status: 3
+tags: []
+user_id: kellyliu

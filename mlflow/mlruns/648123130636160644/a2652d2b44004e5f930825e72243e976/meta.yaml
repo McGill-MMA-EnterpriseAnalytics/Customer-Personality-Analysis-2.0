@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a2652d2b44004e5f930825e72243e976/artifacts
+end_time: 1713994415044
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a2652d2b44004e5f930825e72243e976
+run_name: receptive-kite-854
+run_uuid: a2652d2b44004e5f930825e72243e976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994413485
+status: 3
+tags: []
+user_id: kellyliu

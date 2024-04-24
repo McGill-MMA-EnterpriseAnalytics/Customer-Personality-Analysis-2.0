@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6bb7b63b95a0415980975294b9114fec/artifacts
+end_time: 1713995365869
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6bb7b63b95a0415980975294b9114fec
+run_name: auspicious-hare-193
+run_uuid: 6bb7b63b95a0415980975294b9114fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995364411
+status: 3
+tags: []
+user_id: kellyliu

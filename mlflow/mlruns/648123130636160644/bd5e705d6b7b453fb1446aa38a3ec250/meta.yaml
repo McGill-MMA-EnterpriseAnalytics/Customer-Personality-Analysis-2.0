@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/bd5e705d6b7b453fb1446aa38a3ec250/artifacts
+end_time: 1713994663358
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: bd5e705d6b7b453fb1446aa38a3ec250
+run_name: kindly-lamb-949
+run_uuid: bd5e705d6b7b453fb1446aa38a3ec250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994661287
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1618b8bf424346d3a08dbad15a8fbb09/artifacts
+end_time: 1713994667488
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1618b8bf424346d3a08dbad15a8fbb09
+run_name: luminous-wren-115
+run_uuid: 1618b8bf424346d3a08dbad15a8fbb09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994665262
+status: 3
+tags: []
+user_id: kellyliu

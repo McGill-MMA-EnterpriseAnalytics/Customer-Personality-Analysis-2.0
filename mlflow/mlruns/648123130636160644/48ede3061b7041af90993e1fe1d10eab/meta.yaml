@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/48ede3061b7041af90993e1fe1d10eab/artifacts
+end_time: 1713995137386
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 48ede3061b7041af90993e1fe1d10eab
+run_name: gifted-panda-822
+run_uuid: 48ede3061b7041af90993e1fe1d10eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995135665
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d1c35cf7701440b79b24fa49af96f7cc/artifacts
+end_time: 1713995169954
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d1c35cf7701440b79b24fa49af96f7cc
+run_name: unleashed-shrike-616
+run_uuid: d1c35cf7701440b79b24fa49af96f7cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995168418
+status: 3
+tags: []
+user_id: kellyliu

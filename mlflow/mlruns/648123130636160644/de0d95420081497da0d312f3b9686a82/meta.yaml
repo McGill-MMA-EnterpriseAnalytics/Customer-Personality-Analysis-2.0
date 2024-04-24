@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/de0d95420081497da0d312f3b9686a82/artifacts
+end_time: 1713995181785
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: de0d95420081497da0d312f3b9686a82
+run_name: abrasive-ant-298
+run_uuid: de0d95420081497da0d312f3b9686a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995180082
+status: 3
+tags: []
+user_id: kellyliu

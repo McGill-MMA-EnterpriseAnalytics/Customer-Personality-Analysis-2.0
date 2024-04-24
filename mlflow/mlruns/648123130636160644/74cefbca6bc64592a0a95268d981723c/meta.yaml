@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/74cefbca6bc64592a0a95268d981723c/artifacts
+end_time: 1713994677331
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 74cefbca6bc64592a0a95268d981723c
+run_name: capricious-yak-708
+run_uuid: 74cefbca6bc64592a0a95268d981723c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994675699
+status: 3
+tags: []
+user_id: kellyliu

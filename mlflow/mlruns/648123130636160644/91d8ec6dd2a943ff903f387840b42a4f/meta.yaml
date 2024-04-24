@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/91d8ec6dd2a943ff903f387840b42a4f/artifacts
+end_time: 1713995324850
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 91d8ec6dd2a943ff903f387840b42a4f
+run_name: righteous-gull-146
+run_uuid: 91d8ec6dd2a943ff903f387840b42a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995323466
+status: 3
+tags: []
+user_id: kellyliu

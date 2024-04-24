@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c9588cb0be4f45cbab52b88d7e0e55e3/artifacts
+end_time: 1713994617207
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c9588cb0be4f45cbab52b88d7e0e55e3
+run_name: powerful-gull-408
+run_uuid: c9588cb0be4f45cbab52b88d7e0e55e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994615740
+status: 3
+tags: []
+user_id: kellyliu

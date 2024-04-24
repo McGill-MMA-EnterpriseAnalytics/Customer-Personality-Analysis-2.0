@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/429f10174c874465b634e4464f7e6efc/artifacts
+end_time: 1713994515330
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 429f10174c874465b634e4464f7e6efc
+run_name: bedecked-moth-605
+run_uuid: 429f10174c874465b634e4464f7e6efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994513900
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7d0acb3697c344069774deb3e5ac574f/artifacts
+end_time: 1713994496175
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7d0acb3697c344069774deb3e5ac574f
+run_name: blushing-dolphin-679
+run_uuid: 7d0acb3697c344069774deb3e5ac574f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994494655
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/66b03407cf2f4aae8303a22d0d09ac31/artifacts
+end_time: 1713995409181
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 66b03407cf2f4aae8303a22d0d09ac31
+run_name: bemused-grouse-772
+run_uuid: 66b03407cf2f4aae8303a22d0d09ac31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995407656
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0bd61d301eb64d0eafdb002876353a2b/artifacts
+end_time: 1713994585572
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0bd61d301eb64d0eafdb002876353a2b
+run_name: youthful-swan-257
+run_uuid: 0bd61d301eb64d0eafdb002876353a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994583718
+status: 3
+tags: []
+user_id: kellyliu

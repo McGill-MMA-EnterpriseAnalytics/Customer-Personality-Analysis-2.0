@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/06ae6d0180dc45e8bda3dc9c569b35d5/artifacts
+end_time: 1713995111854
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 06ae6d0180dc45e8bda3dc9c569b35d5
+run_name: selective-ray-439
+run_uuid: 06ae6d0180dc45e8bda3dc9c569b35d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995110239
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ef4f868e67184faf9dbcafbdbc4498a3/artifacts
+end_time: 1713995288102
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ef4f868e67184faf9dbcafbdbc4498a3
+run_name: spiffy-shoat-555
+run_uuid: ef4f868e67184faf9dbcafbdbc4498a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995286663
+status: 3
+tags: []
+user_id: kellyliu

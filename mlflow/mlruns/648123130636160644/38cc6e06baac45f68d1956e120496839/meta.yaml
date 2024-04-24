@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/38cc6e06baac45f68d1956e120496839/artifacts
+end_time: 1713995159509
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 38cc6e06baac45f68d1956e120496839
+run_name: exultant-lamb-281
+run_uuid: 38cc6e06baac45f68d1956e120496839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995158051
+status: 3
+tags: []
+user_id: kellyliu

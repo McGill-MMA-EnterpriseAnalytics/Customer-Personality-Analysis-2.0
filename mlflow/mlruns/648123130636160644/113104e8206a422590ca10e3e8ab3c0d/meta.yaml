@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/113104e8206a422590ca10e3e8ab3c0d/artifacts
+end_time: 1713995317519
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 113104e8206a422590ca10e3e8ab3c0d
+run_name: lyrical-slug-954
+run_uuid: 113104e8206a422590ca10e3e8ab3c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995316156
+status: 3
+tags: []
+user_id: kellyliu

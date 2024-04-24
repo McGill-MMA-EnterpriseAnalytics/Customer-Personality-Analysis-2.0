@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0065700797634dadbd27aef9f15f9d1e/artifacts
+end_time: 1713994519881
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0065700797634dadbd27aef9f15f9d1e
+run_name: omniscient-midge-880
+run_uuid: 0065700797634dadbd27aef9f15f9d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994518384
+status: 3
+tags: []
+user_id: kellyliu

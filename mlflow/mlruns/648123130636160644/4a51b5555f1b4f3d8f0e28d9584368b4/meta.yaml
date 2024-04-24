@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/4a51b5555f1b4f3d8f0e28d9584368b4/artifacts
+end_time: 1713994460092
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 4a51b5555f1b4f3d8f0e28d9584368b4
+run_name: bemused-sheep-85
+run_uuid: 4a51b5555f1b4f3d8f0e28d9584368b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994458644
+status: 3
+tags: []
+user_id: kellyliu

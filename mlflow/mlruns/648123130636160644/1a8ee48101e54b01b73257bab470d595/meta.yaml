@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1a8ee48101e54b01b73257bab470d595/artifacts
+end_time: 1713994534444
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1a8ee48101e54b01b73257bab470d595
+run_name: bemused-smelt-867
+run_uuid: 1a8ee48101e54b01b73257bab470d595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994532778
+status: 3
+tags: []
+user_id: kellyliu

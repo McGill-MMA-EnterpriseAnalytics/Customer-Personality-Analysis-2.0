@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ae3823f04183456e8fe6512eefd9b7f2/artifacts
+end_time: 1713994312212
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ae3823f04183456e8fe6512eefd9b7f2
+run_name: bemused-shrimp-927
+run_uuid: ae3823f04183456e8fe6512eefd9b7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994310741
+status: 3
+tags: []
+user_id: kellyliu

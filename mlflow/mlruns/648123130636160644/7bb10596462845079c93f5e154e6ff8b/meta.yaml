@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7bb10596462845079c93f5e154e6ff8b/artifacts
+end_time: 1713994369970
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7bb10596462845079c93f5e154e6ff8b
+run_name: treasured-sloth-114
+run_uuid: 7bb10596462845079c93f5e154e6ff8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994367302
+status: 3
+tags: []
+user_id: kellyliu

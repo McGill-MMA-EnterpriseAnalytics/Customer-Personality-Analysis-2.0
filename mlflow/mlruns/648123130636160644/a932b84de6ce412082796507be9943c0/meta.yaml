@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a932b84de6ce412082796507be9943c0/artifacts
+end_time: 1713994633900
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a932b84de6ce412082796507be9943c0
+run_name: amusing-duck-887
+run_uuid: a932b84de6ce412082796507be9943c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994632345
+status: 3
+tags: []
+user_id: kellyliu

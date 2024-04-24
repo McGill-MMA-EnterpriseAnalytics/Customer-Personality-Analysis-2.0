@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0d012d9b11c245538ba41e03d9e64dcb/artifacts
+end_time: 1713994430120
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0d012d9b11c245538ba41e03d9e64dcb
+run_name: crawling-hog-367
+run_uuid: 0d012d9b11c245538ba41e03d9e64dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994428317
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c90e1b340b5a4801bff0a1fede760821/artifacts
+end_time: 1713994578536
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c90e1b340b5a4801bff0a1fede760821
+run_name: classy-perch-760
+run_uuid: c90e1b340b5a4801bff0a1fede760821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994576930
+status: 3
+tags: []
+user_id: kellyliu

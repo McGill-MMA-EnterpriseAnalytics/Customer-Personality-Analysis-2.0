@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1878d413a3cd426cbc2308f4bde92291/artifacts
+end_time: 1713994428307
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1878d413a3cd426cbc2308f4bde92291
+run_name: smiling-donkey-78
+run_uuid: 1878d413a3cd426cbc2308f4bde92291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994426535
+status: 3
+tags: []
+user_id: kellyliu

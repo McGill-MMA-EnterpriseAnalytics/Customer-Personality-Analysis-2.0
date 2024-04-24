@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/aead3170335f42db8f5a5a8ee63d9d43/artifacts
+end_time: 1713994569267
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: aead3170335f42db8f5a5a8ee63d9d43
+run_name: aged-smelt-302
+run_uuid: aead3170335f42db8f5a5a8ee63d9d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994567702
+status: 3
+tags: []
+user_id: kellyliu

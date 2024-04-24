@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/15c4cb0837154ba2a25a44dd9f14cd4b/artifacts
+end_time: 1713995147616
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 15c4cb0837154ba2a25a44dd9f14cd4b
+run_name: welcoming-sponge-808
+run_uuid: 15c4cb0837154ba2a25a44dd9f14cd4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995146169
+status: 3
+tags: []
+user_id: kellyliu

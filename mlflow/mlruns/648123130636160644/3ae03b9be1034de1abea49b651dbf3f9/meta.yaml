@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3ae03b9be1034de1abea49b651dbf3f9/artifacts
+end_time: 1713995330811
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3ae03b9be1034de1abea49b651dbf3f9
+run_name: youthful-zebra-547
+run_uuid: 3ae03b9be1034de1abea49b651dbf3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995329307
+status: 3
+tags: []
+user_id: kellyliu

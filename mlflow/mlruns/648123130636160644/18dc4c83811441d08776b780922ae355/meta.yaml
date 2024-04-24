@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/18dc4c83811441d08776b780922ae355/artifacts
+end_time: 1713995212902
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 18dc4c83811441d08776b780922ae355
+run_name: sincere-slug-680
+run_uuid: 18dc4c83811441d08776b780922ae355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995211426
+status: 3
+tags: []
+user_id: kellyliu

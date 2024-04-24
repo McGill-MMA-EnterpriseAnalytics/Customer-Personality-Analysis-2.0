@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c200d07eec314807a530815b969fb627/artifacts
+end_time: 1713994323173
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c200d07eec314807a530815b969fb627
+run_name: fearless-wren-769
+run_uuid: c200d07eec314807a530815b969fb627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994320924
+status: 3
+tags: []
+user_id: kellyliu

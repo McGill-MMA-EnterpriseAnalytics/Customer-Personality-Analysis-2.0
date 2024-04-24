@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/bf6ce3d795b7476dbc6edda73839b1bf/artifacts
+end_time: 1713994284165
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: bf6ce3d795b7476dbc6edda73839b1bf
+run_name: angry-zebra-303
+run_uuid: bf6ce3d795b7476dbc6edda73839b1bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994282368
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8dc24c070308402c9e08bdfd900defbf/artifacts
+end_time: 1713994396419
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8dc24c070308402c9e08bdfd900defbf
+run_name: zealous-sloth-775
+run_uuid: 8dc24c070308402c9e08bdfd900defbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994393842
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/399135980cb94476b2897e3685dbb337/artifacts
+end_time: 1713995352072
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 399135980cb94476b2897e3685dbb337
+run_name: burly-sow-510
+run_uuid: 399135980cb94476b2897e3685dbb337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995349908
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/46328888682d40a19e246c14c62af683/artifacts
+end_time: 1713995154876
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 46328888682d40a19e246c14c62af683
+run_name: charming-midge-49
+run_uuid: 46328888682d40a19e246c14c62af683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995153523
+status: 3
+tags: []
+user_id: kellyliu

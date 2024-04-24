@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3379a1c2b4914c09bab0676c2938ba66/artifacts
+end_time: 1713995076562
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3379a1c2b4914c09bab0676c2938ba66
+run_name: likeable-bear-501
+run_uuid: 3379a1c2b4914c09bab0676c2938ba66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995075107
+status: 3
+tags: []
+user_id: kellyliu

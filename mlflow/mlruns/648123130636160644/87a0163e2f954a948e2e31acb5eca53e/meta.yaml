@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/87a0163e2f954a948e2e31acb5eca53e/artifacts
+end_time: 1713994513888
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 87a0163e2f954a948e2e31acb5eca53e
+run_name: tasteful-kit-240
+run_uuid: 87a0163e2f954a948e2e31acb5eca53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994512406
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/39baef49257b432db779679471050641/artifacts
+end_time: 1713995386461
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 39baef49257b432db779679471050641
+run_name: learned-hound-941
+run_uuid: 39baef49257b432db779679471050641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995384817
+status: 3
+tags: []
+user_id: kellyliu

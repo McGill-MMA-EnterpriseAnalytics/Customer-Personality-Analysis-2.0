@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/fbffc56abb294d43bfbfb1fd13f69f6d/artifacts
+end_time: 1713998836332
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: fbffc56abb294d43bfbfb1fd13f69f6d
+run_name: peaceful-bass-445
+run_uuid: fbffc56abb294d43bfbfb1fd13f69f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

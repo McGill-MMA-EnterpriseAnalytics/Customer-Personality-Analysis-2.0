@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5fdd3994431043bca9122e847fe855be/artifacts
+end_time: 1713994555545
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5fdd3994431043bca9122e847fe855be
+run_name: delightful-stork-877
+run_uuid: 5fdd3994431043bca9122e847fe855be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994554032
+status: 3
+tags: []
+user_id: kellyliu

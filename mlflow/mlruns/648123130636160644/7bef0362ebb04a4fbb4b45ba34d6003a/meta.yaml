@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7bef0362ebb04a4fbb4b45ba34d6003a/artifacts
+end_time: 1713994672485
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7bef0362ebb04a4fbb4b45ba34d6003a
+run_name: auspicious-mink-752
+run_uuid: 7bef0362ebb04a4fbb4b45ba34d6003a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994670877
+status: 3
+tags: []
+user_id: kellyliu

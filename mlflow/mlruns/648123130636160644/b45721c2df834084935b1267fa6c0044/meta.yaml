@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/b45721c2df834084935b1267fa6c0044/artifacts
+end_time: 1713995286653
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: b45721c2df834084935b1267fa6c0044
+run_name: efficient-cat-756
+run_uuid: b45721c2df834084935b1267fa6c0044
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995285264
+status: 3
+tags: []
+user_id: kellyliu

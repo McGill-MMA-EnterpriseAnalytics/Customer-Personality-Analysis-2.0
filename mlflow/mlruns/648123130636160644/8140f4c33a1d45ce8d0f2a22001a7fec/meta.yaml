@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8140f4c33a1d45ce8d0f2a22001a7fec/artifacts
+end_time: 1713994376584
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8140f4c33a1d45ce8d0f2a22001a7fec
+run_name: worried-squid-125
+run_uuid: 8140f4c33a1d45ce8d0f2a22001a7fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994374935
+status: 3
+tags: []
+user_id: kellyliu

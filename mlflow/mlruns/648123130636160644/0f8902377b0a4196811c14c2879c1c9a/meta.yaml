@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0f8902377b0a4196811c14c2879c1c9a/artifacts
+end_time: 1713994329113
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0f8902377b0a4196811c14c2879c1c9a
+run_name: melodic-hare-239
+run_uuid: 0f8902377b0a4196811c14c2879c1c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994327691
+status: 3
+tags: []
+user_id: kellyliu

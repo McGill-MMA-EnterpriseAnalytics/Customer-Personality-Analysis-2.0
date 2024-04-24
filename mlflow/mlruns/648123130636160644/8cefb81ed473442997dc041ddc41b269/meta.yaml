@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8cefb81ed473442997dc041ddc41b269/artifacts
+end_time: 1713995084346
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8cefb81ed473442997dc041ddc41b269
+run_name: beautiful-flea-195
+run_uuid: 8cefb81ed473442997dc041ddc41b269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995082764
+status: 3
+tags: []
+user_id: kellyliu

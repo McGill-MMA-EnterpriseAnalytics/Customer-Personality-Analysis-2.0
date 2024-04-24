@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6d3f6b43a57f414c88357e2c33b1ffed/artifacts
+end_time: 1713994340159
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6d3f6b43a57f414c88357e2c33b1ffed
+run_name: calm-whale-78
+run_uuid: 6d3f6b43a57f414c88357e2c33b1ffed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994338559
+status: 3
+tags: []
+user_id: kellyliu

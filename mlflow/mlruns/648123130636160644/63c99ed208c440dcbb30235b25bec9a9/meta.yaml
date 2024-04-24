@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/63c99ed208c440dcbb30235b25bec9a9/artifacts
+end_time: 1713998572444
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 63c99ed208c440dcbb30235b25bec9a9
+run_name: rumbling-robin-472
+run_uuid: 63c99ed208c440dcbb30235b25bec9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

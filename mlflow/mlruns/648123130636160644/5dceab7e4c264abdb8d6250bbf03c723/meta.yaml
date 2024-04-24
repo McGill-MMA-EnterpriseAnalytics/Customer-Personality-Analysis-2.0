@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5dceab7e4c264abdb8d6250bbf03c723/artifacts
+end_time: 1713994435544
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5dceab7e4c264abdb8d6250bbf03c723
+run_name: bemused-perch-517
+run_uuid: 5dceab7e4c264abdb8d6250bbf03c723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994433925
+status: 3
+tags: []
+user_id: kellyliu

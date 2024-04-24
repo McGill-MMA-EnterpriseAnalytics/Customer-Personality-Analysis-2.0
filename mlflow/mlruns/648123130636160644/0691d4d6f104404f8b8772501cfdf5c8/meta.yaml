@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0691d4d6f104404f8b8772501cfdf5c8/artifacts
+end_time: 1713994502694
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0691d4d6f104404f8b8772501cfdf5c8
+run_name: agreeable-kit-71
+run_uuid: 0691d4d6f104404f8b8772501cfdf5c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994501190
+status: 3
+tags: []
+user_id: kellyliu

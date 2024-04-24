@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/74ca69457bd3471fa70dab47e6e2649b/artifacts
+end_time: 1713995441928
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 74ca69457bd3471fa70dab47e6e2649b
+run_name: grandiose-skink-506
+run_uuid: 74ca69457bd3471fa70dab47e6e2649b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995440247
+status: 3
+tags: []
+user_id: kellyliu

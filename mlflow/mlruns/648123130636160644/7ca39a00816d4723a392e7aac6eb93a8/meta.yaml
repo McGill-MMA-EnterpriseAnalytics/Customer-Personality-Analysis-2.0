@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7ca39a00816d4723a392e7aac6eb93a8/artifacts
+end_time: 1713994379936
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7ca39a00816d4723a392e7aac6eb93a8
+run_name: bouncy-skink-668
+run_uuid: 7ca39a00816d4723a392e7aac6eb93a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994378196
+status: 3
+tags: []
+user_id: kellyliu

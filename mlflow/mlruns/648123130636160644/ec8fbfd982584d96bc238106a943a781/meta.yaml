@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ec8fbfd982584d96bc238106a943a781/artifacts
+end_time: 1713995273321
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ec8fbfd982584d96bc238106a943a781
+run_name: salty-cat-711
+run_uuid: ec8fbfd982584d96bc238106a943a781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995271783
+status: 3
+tags: []
+user_id: kellyliu

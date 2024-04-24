@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ac8dc88d322d4347b8054c7eb418a937/artifacts
+end_time: 1713994589040
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ac8dc88d322d4347b8054c7eb418a937
+run_name: brawny-hound-309
+run_uuid: ac8dc88d322d4347b8054c7eb418a937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994587356
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d2515b4a61894080b6c60581f2bc6c67/artifacts
+end_time: 1713994575331
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d2515b4a61894080b6c60581f2bc6c67
+run_name: serious-cub-57
+run_uuid: d2515b4a61894080b6c60581f2bc6c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994573856
+status: 3
+tags: []
+user_id: kellyliu

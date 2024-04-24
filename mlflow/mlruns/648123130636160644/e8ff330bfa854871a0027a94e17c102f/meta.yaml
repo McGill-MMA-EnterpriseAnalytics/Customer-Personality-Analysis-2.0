@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e8ff330bfa854871a0027a94e17c102f/artifacts
+end_time: 1713995243255
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e8ff330bfa854871a0027a94e17c102f
+run_name: exultant-ray-669
+run_uuid: e8ff330bfa854871a0027a94e17c102f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995241766
+status: 3
+tags: []
+user_id: kellyliu

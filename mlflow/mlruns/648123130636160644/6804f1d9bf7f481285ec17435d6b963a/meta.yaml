@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6804f1d9bf7f481285ec17435d6b963a/artifacts
+end_time: 1713994674131
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6804f1d9bf7f481285ec17435d6b963a
+run_name: worried-flea-690
+run_uuid: 6804f1d9bf7f481285ec17435d6b963a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994672496
+status: 3
+tags: []
+user_id: kellyliu

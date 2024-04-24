@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/201910d1a3b748d792b8b93909e404ef/artifacts
+end_time: 1713994483150
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 201910d1a3b748d792b8b93909e404ef
+run_name: upbeat-swan-687
+run_uuid: 201910d1a3b748d792b8b93909e404ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994481434
+status: 3
+tags: []
+user_id: kellyliu

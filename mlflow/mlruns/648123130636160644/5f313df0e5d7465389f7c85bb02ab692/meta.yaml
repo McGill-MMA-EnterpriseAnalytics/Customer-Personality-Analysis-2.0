@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5f313df0e5d7465389f7c85bb02ab692/artifacts
+end_time: 1713994612479
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5f313df0e5d7465389f7c85bb02ab692
+run_name: luxuriant-steed-999
+run_uuid: 5f313df0e5d7465389f7c85bb02ab692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994610914
+status: 3
+tags: []
+user_id: kellyliu

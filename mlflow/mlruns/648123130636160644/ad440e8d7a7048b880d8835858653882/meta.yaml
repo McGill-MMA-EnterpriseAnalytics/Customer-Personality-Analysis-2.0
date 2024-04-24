@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ad440e8d7a7048b880d8835858653882/artifacts
+end_time: 1713994494643
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ad440e8d7a7048b880d8835858653882
+run_name: burly-jay-481
+run_uuid: ad440e8d7a7048b880d8835858653882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994493114
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5e0fe428148a45f78b88737891df1225/artifacts
+end_time: 1713995233111
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5e0fe428148a45f78b88737891df1225
+run_name: blushing-carp-258
+run_uuid: 5e0fe428148a45f78b88737891df1225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995231653
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/21adaca331074031ab90c449d76ec46c/artifacts
+end_time: 1713995190685
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 21adaca331074031ab90c449d76ec46c
+run_name: wise-cow-581
+run_uuid: 21adaca331074031ab90c449d76ec46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995188875
+status: 3
+tags: []
+user_id: kellyliu

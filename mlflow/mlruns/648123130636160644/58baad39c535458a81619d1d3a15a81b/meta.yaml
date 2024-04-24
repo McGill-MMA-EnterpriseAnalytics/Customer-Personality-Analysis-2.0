@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/58baad39c535458a81619d1d3a15a81b/artifacts
+end_time: 1713995029844
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 58baad39c535458a81619d1d3a15a81b
+run_name: mercurial-wren-258
+run_uuid: 58baad39c535458a81619d1d3a15a81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994678907
+status: 3
+tags: []
+user_id: kellyliu

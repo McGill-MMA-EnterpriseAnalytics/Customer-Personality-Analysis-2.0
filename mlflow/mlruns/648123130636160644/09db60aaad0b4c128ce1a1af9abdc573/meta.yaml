@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/09db60aaad0b4c128ce1a1af9abdc573/artifacts
+end_time: 1713994343735
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 09db60aaad0b4c128ce1a1af9abdc573
+run_name: inquisitive-deer-984
+run_uuid: 09db60aaad0b4c128ce1a1af9abdc573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994342036
+status: 3
+tags: []
+user_id: kellyliu

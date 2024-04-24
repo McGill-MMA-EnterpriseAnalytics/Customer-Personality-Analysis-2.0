@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ff1fd3187d8348e6ab0ec44b580764f9/artifacts
+end_time: 1713994326125
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ff1fd3187d8348e6ab0ec44b580764f9
+run_name: agreeable-eel-896
+run_uuid: ff1fd3187d8348e6ab0ec44b580764f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994324647
+status: 3
+tags: []
+user_id: kellyliu

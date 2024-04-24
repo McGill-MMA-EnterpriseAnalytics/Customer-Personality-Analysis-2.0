@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7b3e4c2d62bf46bda4c400f69a953993/artifacts
+end_time: 1713995203251
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7b3e4c2d62bf46bda4c400f69a953993
+run_name: fun-stag-644
+run_uuid: 7b3e4c2d62bf46bda4c400f69a953993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995201796
+status: 3
+tags: []
+user_id: kellyliu

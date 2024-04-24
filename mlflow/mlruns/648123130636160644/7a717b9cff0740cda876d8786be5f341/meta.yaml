@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7a717b9cff0740cda876d8786be5f341/artifacts
+end_time: 1713994432016
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7a717b9cff0740cda876d8786be5f341
+run_name: loud-snake-697
+run_uuid: 7a717b9cff0740cda876d8786be5f341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994430137
+status: 3
+tags: []
+user_id: kellyliu

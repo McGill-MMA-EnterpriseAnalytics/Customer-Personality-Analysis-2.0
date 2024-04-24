@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/faf867fc512f46fea56256885d16ee97/artifacts
+end_time: 1713995255795
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: faf867fc512f46fea56256885d16ee97
+run_name: welcoming-turtle-779
+run_uuid: faf867fc512f46fea56256885d16ee97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995254222
+status: 3
+tags: []
+user_id: kellyliu

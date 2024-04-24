@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ea80aaf679854d1585832f285dad012c/artifacts
+end_time: 1713995165201
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ea80aaf679854d1585832f285dad012c
+run_name: nosy-eel-316
+run_uuid: ea80aaf679854d1585832f285dad012c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995163639
+status: 3
+tags: []
+user_id: kellyliu

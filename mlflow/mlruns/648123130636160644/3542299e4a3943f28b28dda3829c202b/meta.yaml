@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3542299e4a3943f28b28dda3829c202b/artifacts
+end_time: 1713995370455
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3542299e4a3943f28b28dda3829c202b
+run_name: handsome-hound-628
+run_uuid: 3542299e4a3943f28b28dda3829c202b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995368898
+status: 3
+tags: []
+user_id: kellyliu

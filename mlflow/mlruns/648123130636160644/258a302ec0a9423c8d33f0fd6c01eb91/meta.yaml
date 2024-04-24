@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/258a302ec0a9423c8d33f0fd6c01eb91/artifacts
+end_time: 1713995274796
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 258a302ec0a9423c8d33f0fd6c01eb91
+run_name: rare-slug-498
+run_uuid: 258a302ec0a9423c8d33f0fd6c01eb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995273333
+status: 3
+tags: []
+user_id: kellyliu

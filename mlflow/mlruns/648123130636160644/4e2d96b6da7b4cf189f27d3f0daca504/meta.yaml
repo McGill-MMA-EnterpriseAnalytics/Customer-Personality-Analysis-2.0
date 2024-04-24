@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/4e2d96b6da7b4cf189f27d3f0daca504/artifacts
+end_time: 1713994378185
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 4e2d96b6da7b4cf189f27d3f0daca504
+run_name: smiling-skink-535
+run_uuid: 4e2d96b6da7b4cf189f27d3f0daca504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994376594
+status: 3
+tags: []
+user_id: kellyliu

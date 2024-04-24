@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c93fbdec19c74eb08c50405f6755991d/artifacts
+end_time: 1713995237439
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c93fbdec19c74eb08c50405f6755991d
+run_name: adorable-lamb-232
+run_uuid: c93fbdec19c74eb08c50405f6755991d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995235982
+status: 3
+tags: []
+user_id: kellyliu

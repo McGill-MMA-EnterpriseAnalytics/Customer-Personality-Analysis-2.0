@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/cead12b2779b47c087eeb7fc707bf8fe/artifacts
+end_time: 1713994330711
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: cead12b2779b47c087eeb7fc707bf8fe
+run_name: secretive-colt-884
+run_uuid: cead12b2779b47c087eeb7fc707bf8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994329131
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6db99db5ad8246acab655b9ab3f1828b/artifacts
+end_time: 1713994307099
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6db99db5ad8246acab655b9ab3f1828b
+run_name: burly-mole-319
+run_uuid: 6db99db5ad8246acab655b9ab3f1828b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994305339
+status: 3
+tags: []
+user_id: kellyliu

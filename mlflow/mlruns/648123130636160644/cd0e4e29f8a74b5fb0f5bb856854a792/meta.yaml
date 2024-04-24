@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/cd0e4e29f8a74b5fb0f5bb856854a792/artifacts
+end_time: 1713995358447
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: cd0e4e29f8a74b5fb0f5bb856854a792
+run_name: capricious-snake-806
+run_uuid: cd0e4e29f8a74b5fb0f5bb856854a792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995357004
+status: 3
+tags: []
+user_id: kellyliu

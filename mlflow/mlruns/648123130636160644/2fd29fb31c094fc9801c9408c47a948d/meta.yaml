@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2fd29fb31c094fc9801c9408c47a948d/artifacts
+end_time: 1713995058793
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2fd29fb31c094fc9801c9408c47a948d
+run_name: legendary-shrike-759
+run_uuid: 2fd29fb31c094fc9801c9408c47a948d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995057282
+status: 3
+tags: []
+user_id: kellyliu

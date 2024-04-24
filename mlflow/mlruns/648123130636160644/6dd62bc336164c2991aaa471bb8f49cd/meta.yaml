@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6dd62bc336164c2991aaa471bb8f49cd/artifacts
+end_time: 1713995086693
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6dd62bc336164c2991aaa471bb8f49cd
+run_name: puzzled-donkey-913
+run_uuid: 6dd62bc336164c2991aaa471bb8f49cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995084357
+status: 3
+tags: []
+user_id: kellyliu

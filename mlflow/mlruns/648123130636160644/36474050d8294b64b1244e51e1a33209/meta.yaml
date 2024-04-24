@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/36474050d8294b64b1244e51e1a33209/artifacts
+end_time: 1713994629116
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 36474050d8294b64b1244e51e1a33209
+run_name: thundering-goat-39
+run_uuid: 36474050d8294b64b1244e51e1a33209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994627534
+status: 3
+tags: []
+user_id: kellyliu

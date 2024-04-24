@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f3026bf86bf3440891632a4845cf87ec/artifacts
+end_time: 1713995150550
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f3026bf86bf3440891632a4845cf87ec
+run_name: luxuriant-cat-383
+run_uuid: f3026bf86bf3440891632a4845cf87ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995149053
+status: 3
+tags: []
+user_id: kellyliu

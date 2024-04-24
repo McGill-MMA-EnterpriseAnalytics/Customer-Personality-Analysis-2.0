@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ced3beeacccd475d8cade648239067f5/artifacts
+end_time: 1713995323456
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ced3beeacccd475d8cade648239067f5
+run_name: wise-midge-493
+run_uuid: ced3beeacccd475d8cade648239067f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995322054
+status: 3
+tags: []
+user_id: kellyliu

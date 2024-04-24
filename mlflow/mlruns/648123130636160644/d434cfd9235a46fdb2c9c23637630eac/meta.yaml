@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d434cfd9235a46fdb2c9c23637630eac/artifacts
+end_time: 1713994521475
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d434cfd9235a46fdb2c9c23637630eac
+run_name: carefree-mule-159
+run_uuid: d434cfd9235a46fdb2c9c23637630eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994519891
+status: 3
+tags: []
+user_id: kellyliu

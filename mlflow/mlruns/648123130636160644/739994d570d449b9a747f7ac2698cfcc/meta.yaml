@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/739994d570d449b9a747f7ac2698cfcc/artifacts
+end_time: 1713994601132
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 739994d570d449b9a747f7ac2698cfcc
+run_name: gentle-bat-512
+run_uuid: 739994d570d449b9a747f7ac2698cfcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994599671
+status: 3
+tags: []
+user_id: kellyliu

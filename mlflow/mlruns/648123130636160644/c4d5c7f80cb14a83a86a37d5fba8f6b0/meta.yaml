@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c4d5c7f80cb14a83a86a37d5fba8f6b0/artifacts
+end_time: 1713995096346
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c4d5c7f80cb14a83a86a37d5fba8f6b0
+run_name: lyrical-rook-712
+run_uuid: c4d5c7f80cb14a83a86a37d5fba8f6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995094447
+status: 3
+tags: []
+user_id: kellyliu

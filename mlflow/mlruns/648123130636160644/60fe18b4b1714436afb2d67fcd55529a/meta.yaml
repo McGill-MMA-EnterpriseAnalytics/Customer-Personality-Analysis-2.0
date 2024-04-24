@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/60fe18b4b1714436afb2d67fcd55529a/artifacts
+end_time: 1713994296814
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 60fe18b4b1714436afb2d67fcd55529a
+run_name: grandiose-quail-377
+run_uuid: 60fe18b4b1714436afb2d67fcd55529a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994295288
+status: 3
+tags: []
+user_id: kellyliu

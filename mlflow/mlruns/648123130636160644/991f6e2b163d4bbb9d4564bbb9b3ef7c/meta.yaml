@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/991f6e2b163d4bbb9d4564bbb9b3ef7c/artifacts
+end_time: 1713995176396
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 991f6e2b163d4bbb9d4564bbb9b3ef7c
+run_name: delicate-doe-309
+run_uuid: 991f6e2b163d4bbb9d4564bbb9b3ef7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995174672
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2fc60e9d3b8744ca8ea3222c947c7edb/artifacts
+end_time: 1713994665251
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2fc60e9d3b8744ca8ea3222c947c7edb
+run_name: unleashed-calf-568
+run_uuid: 2fc60e9d3b8744ca8ea3222c947c7edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994663373
+status: 3
+tags: []
+user_id: kellyliu

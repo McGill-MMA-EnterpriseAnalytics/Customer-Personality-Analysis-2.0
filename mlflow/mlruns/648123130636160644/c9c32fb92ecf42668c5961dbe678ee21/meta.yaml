@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c9c32fb92ecf42668c5961dbe678ee21/artifacts
+end_time: 1713994407981
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c9c32fb92ecf42668c5961dbe678ee21
+run_name: rebellious-flea-315
+run_uuid: c9c32fb92ecf42668c5961dbe678ee21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994406354
+status: 3
+tags: []
+user_id: kellyliu

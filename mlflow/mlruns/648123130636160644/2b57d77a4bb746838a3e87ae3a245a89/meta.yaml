@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2b57d77a4bb746838a3e87ae3a245a89/artifacts
+end_time: 1713995231643
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2b57d77a4bb746838a3e87ae3a245a89
+run_name: adaptable-crane-271
+run_uuid: 2b57d77a4bb746838a3e87ae3a245a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995230038
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d2eba48555134792a1459c38c57724e2/artifacts
+end_time: 1713994470101
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d2eba48555134792a1459c38c57724e2
+run_name: salty-hawk-381
+run_uuid: d2eba48555134792a1459c38c57724e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994468607
+status: 3
+tags: []
+user_id: kellyliu

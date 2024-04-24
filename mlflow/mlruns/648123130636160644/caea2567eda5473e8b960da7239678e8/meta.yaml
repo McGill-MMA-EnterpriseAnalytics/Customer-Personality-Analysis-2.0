@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/caea2567eda5473e8b960da7239678e8/artifacts
+end_time: 1713994651803
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: caea2567eda5473e8b960da7239678e8
+run_name: zealous-yak-718
+run_uuid: caea2567eda5473e8b960da7239678e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994650219
+status: 3
+tags: []
+user_id: kellyliu

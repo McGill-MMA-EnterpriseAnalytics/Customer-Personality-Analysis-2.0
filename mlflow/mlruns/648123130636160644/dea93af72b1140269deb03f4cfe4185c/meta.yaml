@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/dea93af72b1140269deb03f4cfe4185c/artifacts
+end_time: 1713994602852
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: dea93af72b1140269deb03f4cfe4185c
+run_name: enthused-asp-182
+run_uuid: dea93af72b1140269deb03f4cfe4185c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994601141
+status: 3
+tags: []
+user_id: kellyliu

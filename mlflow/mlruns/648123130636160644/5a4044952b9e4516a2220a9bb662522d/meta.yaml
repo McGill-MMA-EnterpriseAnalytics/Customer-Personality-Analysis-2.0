@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5a4044952b9e4516a2220a9bb662522d/artifacts
+end_time: 1713994433914
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5a4044952b9e4516a2220a9bb662522d
+run_name: mercurial-pug-625
+run_uuid: 5a4044952b9e4516a2220a9bb662522d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994432027
+status: 3
+tags: []
+user_id: kellyliu

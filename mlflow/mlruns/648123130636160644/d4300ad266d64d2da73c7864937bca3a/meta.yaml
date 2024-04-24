@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d4300ad266d64d2da73c7864937bca3a/artifacts
+end_time: 1713994481423
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d4300ad266d64d2da73c7864937bca3a
+run_name: serious-skink-191
+run_uuid: d4300ad266d64d2da73c7864937bca3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994479860
+status: 3
+tags: []
+user_id: kellyliu

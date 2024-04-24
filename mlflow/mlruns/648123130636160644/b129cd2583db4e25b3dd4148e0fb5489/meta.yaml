@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/b129cd2583db4e25b3dd4148e0fb5489/artifacts
+end_time: 1713994639845
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: b129cd2583db4e25b3dd4148e0fb5489
+run_name: upbeat-perch-462
+run_uuid: b129cd2583db4e25b3dd4148e0fb5489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994638441
+status: 3
+tags: []
+user_id: kellyliu

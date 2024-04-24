@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6d36020759014e2a9dddd0ff2c6b3c59/artifacts
+end_time: 1713995445019
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6d36020759014e2a9dddd0ff2c6b3c59
+run_name: thundering-elk-143
+run_uuid: 6d36020759014e2a9dddd0ff2c6b3c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995443521
+status: 3
+tags: []
+user_id: kellyliu

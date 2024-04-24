@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/31fd2a3bd0b64674bd280bca24323cb0/artifacts
+end_time: 1713994647143
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 31fd2a3bd0b64674bd280bca24323cb0
+run_name: mysterious-shrew-794
+run_uuid: 31fd2a3bd0b64674bd280bca24323cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994645646
+status: 3
+tags: []
+user_id: kellyliu

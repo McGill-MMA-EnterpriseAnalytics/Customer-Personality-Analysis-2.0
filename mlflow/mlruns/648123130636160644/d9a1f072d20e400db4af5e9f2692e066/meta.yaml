@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d9a1f072d20e400db4af5e9f2692e066/artifacts
+end_time: 1713995353741
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d9a1f072d20e400db4af5e9f2692e066
+run_name: fearless-toad-272
+run_uuid: d9a1f072d20e400db4af5e9f2692e066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995352084
+status: 3
+tags: []
+user_id: kellyliu

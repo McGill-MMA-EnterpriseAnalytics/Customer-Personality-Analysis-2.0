@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3621ba68dc0f4d489be92ba4a63d22db/artifacts
+end_time: 1713995285253
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3621ba68dc0f4d489be92ba4a63d22db
+run_name: righteous-hog-866
+run_uuid: 3621ba68dc0f4d489be92ba4a63d22db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995283812
+status: 3
+tags: []
+user_id: kellyliu

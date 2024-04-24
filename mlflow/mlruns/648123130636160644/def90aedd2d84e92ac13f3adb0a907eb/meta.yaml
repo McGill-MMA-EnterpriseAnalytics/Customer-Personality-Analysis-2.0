@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/def90aedd2d84e92ac13f3adb0a907eb/artifacts
+end_time: 1713995251154
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: def90aedd2d84e92ac13f3adb0a907eb
+run_name: enthused-kite-48
+run_uuid: def90aedd2d84e92ac13f3adb0a907eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995249668
+status: 3
+tags: []
+user_id: kellyliu

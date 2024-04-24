@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/723a21b8c16e41169917a6e9312946f7/artifacts
+end_time: 1713995356994
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 723a21b8c16e41169917a6e9312946f7
+run_name: welcoming-cow-970
+run_uuid: 723a21b8c16e41169917a6e9312946f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995355393
+status: 3
+tags: []
+user_id: kellyliu

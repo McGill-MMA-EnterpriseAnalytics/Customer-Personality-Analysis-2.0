@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2bc1ef4be84445128245e1f5daad620c/artifacts
+end_time: 1713994293833
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2bc1ef4be84445128245e1f5daad620c
+run_name: adaptable-shrimp-280
+run_uuid: 2bc1ef4be84445128245e1f5daad620c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994292403
+status: 3
+tags: []
+user_id: kellyliu

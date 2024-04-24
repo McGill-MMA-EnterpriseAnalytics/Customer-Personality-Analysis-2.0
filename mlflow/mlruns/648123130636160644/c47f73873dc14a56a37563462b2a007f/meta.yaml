@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c47f73873dc14a56a37563462b2a007f/artifacts
+end_time: 1713995407646
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c47f73873dc14a56a37563462b2a007f
+run_name: honorable-wasp-506
+run_uuid: c47f73873dc14a56a37563462b2a007f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995406135
+status: 3
+tags: []
+user_id: kellyliu

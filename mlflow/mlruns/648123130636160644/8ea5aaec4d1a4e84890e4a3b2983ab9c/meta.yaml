@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8ea5aaec4d1a4e84890e4a3b2983ab9c/artifacts
+end_time: 1713994374924
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8ea5aaec4d1a4e84890e4a3b2983ab9c
+run_name: sedate-fly-778
+run_uuid: 8ea5aaec4d1a4e84890e4a3b2983ab9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994373349
+status: 3
+tags: []
+user_id: kellyliu

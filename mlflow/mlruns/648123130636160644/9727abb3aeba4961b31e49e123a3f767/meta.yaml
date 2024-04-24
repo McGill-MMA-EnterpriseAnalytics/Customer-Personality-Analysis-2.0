@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/9727abb3aeba4961b31e49e123a3f767/artifacts
+end_time: 1713994543472
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 9727abb3aeba4961b31e49e123a3f767
+run_name: shivering-bee-729
+run_uuid: 9727abb3aeba4961b31e49e123a3f767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994541335
+status: 3
+tags: []
+user_id: kellyliu

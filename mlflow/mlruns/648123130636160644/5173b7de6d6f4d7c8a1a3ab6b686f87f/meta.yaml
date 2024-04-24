@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5173b7de6d6f4d7c8a1a3ab6b686f87f/artifacts
+end_time: 1713995088857
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5173b7de6d6f4d7c8a1a3ab6b686f87f
+run_name: rebellious-mule-309
+run_uuid: 5173b7de6d6f4d7c8a1a3ab6b686f87f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995086708
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d9d5dc6c2f7942fab0918fd27136e692/artifacts
+end_time: 1713994393830
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d9d5dc6c2f7942fab0918fd27136e692
+run_name: amazing-owl-467
+run_uuid: d9d5dc6c2f7942fab0918fd27136e692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994391805
+status: 3
+tags: []
+user_id: kellyliu

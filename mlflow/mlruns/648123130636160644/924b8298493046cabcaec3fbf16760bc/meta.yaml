@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/924b8298493046cabcaec3fbf16760bc/artifacts
+end_time: 1713995235969
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 924b8298493046cabcaec3fbf16760bc
+run_name: masked-cow-874
+run_uuid: 924b8298493046cabcaec3fbf16760bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995234522
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/01fc63629a314bd4ad8818871b8be449/artifacts
+end_time: 1713994499572
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 01fc63629a314bd4ad8818871b8be449
+run_name: learned-flea-921
+run_uuid: 01fc63629a314bd4ad8818871b8be449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994497772
+status: 3
+tags: []
+user_id: kellyliu

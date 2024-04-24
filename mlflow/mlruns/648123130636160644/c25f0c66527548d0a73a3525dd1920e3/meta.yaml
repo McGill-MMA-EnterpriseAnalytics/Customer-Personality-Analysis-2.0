@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c25f0c66527548d0a73a3525dd1920e3/artifacts
+end_time: 1713994599661
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c25f0c66527548d0a73a3525dd1920e3
+run_name: bright-midge-178
+run_uuid: c25f0c66527548d0a73a3525dd1920e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994598179
+status: 3
+tags: []
+user_id: kellyliu

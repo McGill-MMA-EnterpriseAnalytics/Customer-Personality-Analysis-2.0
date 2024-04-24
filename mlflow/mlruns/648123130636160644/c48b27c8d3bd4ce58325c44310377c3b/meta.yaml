@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c48b27c8d3bd4ce58325c44310377c3b/artifacts
+end_time: 1713995075097
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c48b27c8d3bd4ce58325c44310377c3b
+run_name: merciful-stoat-892
+run_uuid: c48b27c8d3bd4ce58325c44310377c3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995073432
+status: 3
+tags: []
+user_id: kellyliu

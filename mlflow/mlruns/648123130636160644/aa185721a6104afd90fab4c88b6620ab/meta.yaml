@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/aa185721a6104afd90fab4c88b6620ab/artifacts
+end_time: 1713995113369
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: aa185721a6104afd90fab4c88b6620ab
+run_name: smiling-boar-32
+run_uuid: aa185721a6104afd90fab4c88b6620ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995111865
+status: 3
+tags: []
+user_id: kellyliu

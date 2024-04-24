@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f7ef67c396e94955816e1d83b9bec06d/artifacts
+end_time: 1713994627521
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f7ef67c396e94955816e1d83b9bec06d
+run_name: omniscient-wolf-158
+run_uuid: f7ef67c396e94955816e1d83b9bec06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994625643
+status: 3
+tags: []
+user_id: kellyliu

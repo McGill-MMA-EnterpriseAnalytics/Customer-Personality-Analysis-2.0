@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/9c29cd5622c6440ca4c770e8b87f3bdf/artifacts
+end_time: 1713994468594
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 9c29cd5622c6440ca4c770e8b87f3bdf
+run_name: nervous-sponge-397
+run_uuid: 9c29cd5622c6440ca4c770e8b87f3bdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994466692
+status: 3
+tags: []
+user_id: kellyliu

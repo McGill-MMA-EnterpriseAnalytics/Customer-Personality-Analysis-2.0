@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e4f138ab87e04699982b90c87c5a8e5f/artifacts
+end_time: 1713994336969
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e4f138ab87e04699982b90c87c5a8e5f
+run_name: smiling-foal-858
+run_uuid: e4f138ab87e04699982b90c87c5a8e5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994335406
+status: 3
+tags: []
+user_id: kellyliu

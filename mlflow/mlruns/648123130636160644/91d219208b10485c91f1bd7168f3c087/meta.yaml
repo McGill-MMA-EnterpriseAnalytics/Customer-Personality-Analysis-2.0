@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/91d219208b10485c91f1bd7168f3c087/artifacts
+end_time: 1713995435101
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 91d219208b10485c91f1bd7168f3c087
+run_name: wistful-shark-150
+run_uuid: 91d219208b10485c91f1bd7168f3c087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995433370
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c0ae3a5f97e54761ab00a3e9a18f10f8/artifacts
+end_time: 1713994409810
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c0ae3a5f97e54761ab00a3e9a18f10f8
+run_name: skittish-sow-481
+run_uuid: c0ae3a5f97e54761ab00a3e9a18f10f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994407994
+status: 3
+tags: []
+user_id: kellyliu

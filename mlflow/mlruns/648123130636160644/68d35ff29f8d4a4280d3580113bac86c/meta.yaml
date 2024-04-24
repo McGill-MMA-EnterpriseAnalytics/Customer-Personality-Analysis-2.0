@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/68d35ff29f8d4a4280d3580113bac86c/artifacts
+end_time: 1713994656531
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 68d35ff29f8d4a4280d3580113bac86c
+run_name: ambitious-colt-820
+run_uuid: 68d35ff29f8d4a4280d3580113bac86c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994655019
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/70315429a6de4122af36f02178f6abe1/artifacts
+end_time: 1713995240332
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 70315429a6de4122af36f02178f6abe1
+run_name: unleashed-hare-45
+run_uuid: 70315429a6de4122af36f02178f6abe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995238925
+status: 3
+tags: []
+user_id: kellyliu

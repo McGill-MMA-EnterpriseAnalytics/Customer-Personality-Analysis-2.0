@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e18f14f405b546388a6c6a5bcace4727/artifacts
+end_time: 1713994644162
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e18f14f405b546388a6c6a5bcace4727
+run_name: adaptable-bat-272
+run_uuid: e18f14f405b546388a6c6a5bcace4727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994642740
+status: 3
+tags: []
+user_id: kellyliu

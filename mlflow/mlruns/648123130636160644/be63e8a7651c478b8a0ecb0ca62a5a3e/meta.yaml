@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/be63e8a7651c478b8a0ecb0ca62a5a3e/artifacts
+end_time: 1713994632335
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: be63e8a7651c478b8a0ecb0ca62a5a3e
+run_name: mercurial-bear-903
+run_uuid: be63e8a7651c478b8a0ecb0ca62a5a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994630714
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c2da9fa5d2d6449f86adc28afe684d08/artifacts
+end_time: 1713995206655
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c2da9fa5d2d6449f86adc28afe684d08
+run_name: fearless-skunk-913
+run_uuid: c2da9fa5d2d6449f86adc28afe684d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995205035
+status: 3
+tags: []
+user_id: kellyliu

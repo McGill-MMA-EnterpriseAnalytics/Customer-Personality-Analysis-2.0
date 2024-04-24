@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ae79d42078f7452082b4ef11fb158954/artifacts
+end_time: 1713994678889
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ae79d42078f7452082b4ef11fb158954
+run_name: mysterious-crane-41
+run_uuid: ae79d42078f7452082b4ef11fb158954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994677347
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2451a7e3b4d74ca3b1b41873cb9858f3/artifacts
+end_time: 1713995263756
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2451a7e3b4d74ca3b1b41873cb9858f3
+run_name: gifted-worm-14
+run_uuid: 2451a7e3b4d74ca3b1b41873cb9858f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995262206
+status: 3
+tags: []
+user_id: kellyliu

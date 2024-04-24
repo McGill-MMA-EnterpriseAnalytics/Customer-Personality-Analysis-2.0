@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/835eaf21c769470b99d6fe300c739f72/artifacts
+end_time: 1713995066315
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 835eaf21c769470b99d6fe300c739f72
+run_name: enchanting-chimp-577
+run_uuid: 835eaf21c769470b99d6fe300c739f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995064247
+status: 3
+tags: []
+user_id: kellyliu

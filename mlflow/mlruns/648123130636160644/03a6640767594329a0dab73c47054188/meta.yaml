@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/03a6640767594329a0dab73c47054188/artifacts
+end_time: 1713994536126
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 03a6640767594329a0dab73c47054188
+run_name: rumbling-sponge-719
+run_uuid: 03a6640767594329a0dab73c47054188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994534455
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8e8d9a932e124ab0b6dd1593e3261c4a/artifacts
+end_time: 1713994592172
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8e8d9a932e124ab0b6dd1593e3261c4a
+run_name: delightful-trout-327
+run_uuid: 8e8d9a932e124ab0b6dd1593e3261c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994590666
+status: 3
+tags: []
+user_id: kellyliu

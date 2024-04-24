@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d20664ee5bf8497bbb135aceea85e931/artifacts
+end_time: 1713998836332
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d20664ee5bf8497bbb135aceea85e931
+run_name: delightful-duck-460
+run_uuid: d20664ee5bf8497bbb135aceea85e931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

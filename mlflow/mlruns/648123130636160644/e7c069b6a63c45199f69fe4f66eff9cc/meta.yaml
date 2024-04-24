@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e7c069b6a63c45199f69fe4f66eff9cc/artifacts
+end_time: 1713998836332
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e7c069b6a63c45199f69fe4f66eff9cc
+run_name: bouncy-stoat-282
+run_uuid: e7c069b6a63c45199f69fe4f66eff9cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

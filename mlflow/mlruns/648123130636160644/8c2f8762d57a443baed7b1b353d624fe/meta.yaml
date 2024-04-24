@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8c2f8762d57a443baed7b1b353d624fe/artifacts
+end_time: 1713995376863
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8c2f8762d57a443baed7b1b353d624fe
+run_name: redolent-moth-806
+run_uuid: 8c2f8762d57a443baed7b1b353d624fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995375254
+status: 3
+tags: []
+user_id: kellyliu

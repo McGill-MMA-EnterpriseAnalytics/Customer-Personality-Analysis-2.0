@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d47dc50d82b14f148d0584be1ba0fee4/artifacts
+end_time: 1713995326334
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d47dc50d82b14f148d0584be1ba0fee4
+run_name: worried-rook-129
+run_uuid: d47dc50d82b14f148d0584be1ba0fee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995324860
+status: 3
+tags: []
+user_id: kellyliu

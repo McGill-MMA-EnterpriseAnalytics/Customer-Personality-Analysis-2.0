@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/4fed78b938ea48e58c747a3bd9e76a5b/artifacts
+end_time: 1713994560651
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 4fed78b938ea48e58c747a3bd9e76a5b
+run_name: angry-gull-572
+run_uuid: 4fed78b938ea48e58c747a3bd9e76a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994558933
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/23dac352cd994c49887a714ba93c2e08/artifacts
+end_time: 1713994282352
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 23dac352cd994c49887a714ba93c2e08
+run_name: fearless-auk-125
+run_uuid: 23dac352cd994c49887a714ba93c2e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994279955
+status: 3
+tags: []
+user_id: kellyliu

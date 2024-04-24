@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a55ef05d02374ca28e1aee5bbc5cf9ca/artifacts
+end_time: 1713995421908
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a55ef05d02374ca28e1aee5bbc5cf9ca
+run_name: dazzling-boar-721
+run_uuid: a55ef05d02374ca28e1aee5bbc5cf9ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995420409
+status: 3
+tags: []
+user_id: kellyliu

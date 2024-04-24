@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/65b4d6acd45e43a1afc3db187820fad3/artifacts
+end_time: 1713995220441
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 65b4d6acd45e43a1afc3db187820fad3
+run_name: bald-hawk-962
+run_uuid: 65b4d6acd45e43a1afc3db187820fad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995218904
+status: 3
+tags: []
+user_id: kellyliu

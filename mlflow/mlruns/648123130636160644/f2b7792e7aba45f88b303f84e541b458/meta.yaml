@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f2b7792e7aba45f88b303f84e541b458/artifacts
+end_time: 1713998572444
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f2b7792e7aba45f88b303f84e541b458
+run_name: sincere-toad-535
+run_uuid: f2b7792e7aba45f88b303f84e541b458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

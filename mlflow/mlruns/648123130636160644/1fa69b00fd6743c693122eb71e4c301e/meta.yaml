@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1fa69b00fd6743c693122eb71e4c301e/artifacts
+end_time: 1713994506478
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1fa69b00fd6743c693122eb71e4c301e
+run_name: bedecked-mule-41
+run_uuid: 1fa69b00fd6743c693122eb71e4c301e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994504446
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/b515db78d3974ddab8ce5193dadf975a/artifacts
+end_time: 1713994289074
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: b515db78d3974ddab8ce5193dadf975a
+run_name: upset-colt-48
+run_uuid: b515db78d3974ddab8ce5193dadf975a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994287283
+status: 3
+tags: []
+user_id: kellyliu

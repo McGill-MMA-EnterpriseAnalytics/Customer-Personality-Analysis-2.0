@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/4ec85370fcdd4906bd961fb892a705c5/artifacts
+end_time: 1713994404531
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 4ec85370fcdd4906bd961fb892a705c5
+run_name: skittish-jay-25
+run_uuid: 4ec85370fcdd4906bd961fb892a705c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994402625
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/da9fdd9498b34747951a582531a1e3d7/artifacts
+end_time: 1713994620373
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: da9fdd9498b34747951a582531a1e3d7
+run_name: zealous-mink-83
+run_uuid: da9fdd9498b34747951a582531a1e3d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994618781
+status: 3
+tags: []
+user_id: kellyliu

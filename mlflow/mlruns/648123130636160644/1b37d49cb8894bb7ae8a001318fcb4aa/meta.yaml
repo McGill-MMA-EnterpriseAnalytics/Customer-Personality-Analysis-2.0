@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1b37d49cb8894bb7ae8a001318fcb4aa/artifacts
+end_time: 1713994310730
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1b37d49cb8894bb7ae8a001318fcb4aa
+run_name: amazing-snail-980
+run_uuid: 1b37d49cb8894bb7ae8a001318fcb4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994309065
+status: 3
+tags: []
+user_id: kellyliu

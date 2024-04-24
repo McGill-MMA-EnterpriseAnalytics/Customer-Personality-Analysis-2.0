@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6934531fb38e4892afbaf30bf31347a7/artifacts
+end_time: 1713995429897
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6934531fb38e4892afbaf30bf31347a7
+run_name: blushing-bass-302
+run_uuid: 6934531fb38e4892afbaf30bf31347a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995428264
+status: 3
+tags: []
+user_id: kellyliu

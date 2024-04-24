@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f89b1f07302c477cb9876dc0ba1df0d3/artifacts
+end_time: 1713995139185
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f89b1f07302c477cb9876dc0ba1df0d3
+run_name: judicious-croc-874
+run_uuid: f89b1f07302c477cb9876dc0ba1df0d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995137398
+status: 3
+tags: []
+user_id: kellyliu

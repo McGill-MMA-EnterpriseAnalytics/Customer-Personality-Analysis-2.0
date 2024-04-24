@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/913dcdfc70234202af88545c26b4a776/artifacts
+end_time: 1713995079616
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 913dcdfc70234202af88545c26b4a776
+run_name: fearless-lark-772
+run_uuid: 913dcdfc70234202af88545c26b4a776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995078066
+status: 3
+tags: []
+user_id: kellyliu

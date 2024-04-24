@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6dbdc9c4ad424df4a671d7dc807e7054/artifacts
+end_time: 1713994455109
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6dbdc9c4ad424df4a671d7dc807e7054
+run_name: mercurial-carp-671
+run_uuid: 6dbdc9c4ad424df4a671d7dc807e7054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994453470
+status: 3
+tags: []
+user_id: kellyliu

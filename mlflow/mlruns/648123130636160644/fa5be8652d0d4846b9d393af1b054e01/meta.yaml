@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/fa5be8652d0d4846b9d393af1b054e01/artifacts
+end_time: 1713995135654
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: fa5be8652d0d4846b9d393af1b054e01
+run_name: funny-panda-707
+run_uuid: fa5be8652d0d4846b9d393af1b054e01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995133852
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8cc4d70600e244e7813c6102c63f1c07/artifacts
+end_time: 1713994472198
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8cc4d70600e244e7813c6102c63f1c07
+run_name: aged-newt-932
+run_uuid: 8cc4d70600e244e7813c6102c63f1c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994470116
+status: 3
+tags: []
+user_id: kellyliu

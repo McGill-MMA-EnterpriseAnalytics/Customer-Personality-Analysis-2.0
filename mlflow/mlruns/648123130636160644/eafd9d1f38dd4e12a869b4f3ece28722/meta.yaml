@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/eafd9d1f38dd4e12a869b4f3ece28722/artifacts
+end_time: 1713995183578
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: eafd9d1f38dd4e12a869b4f3ece28722
+run_name: rebellious-finch-527
+run_uuid: eafd9d1f38dd4e12a869b4f3ece28722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995181796
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0bc2c9e58c6f4b9f90a9c119c2aa3c6f/artifacts
+end_time: 1713995316144
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0bc2c9e58c6f4b9f90a9c119c2aa3c6f
+run_name: likeable-hen-889
+run_uuid: 0bc2c9e58c6f4b9f90a9c119c2aa3c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995314696
+status: 3
+tags: []
+user_id: kellyliu

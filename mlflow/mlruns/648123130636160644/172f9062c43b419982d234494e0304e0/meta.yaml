@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/172f9062c43b419982d234494e0304e0/artifacts
+end_time: 1713995391506
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 172f9062c43b419982d234494e0304e0
+run_name: loud-turtle-849
+run_uuid: 172f9062c43b419982d234494e0304e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995389819
+status: 3
+tags: []
+user_id: kellyliu

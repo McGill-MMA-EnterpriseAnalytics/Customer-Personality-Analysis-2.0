@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2d1602f69ea2487dba8c99550ebd31e3/artifacts
+end_time: 1713995399735
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2d1602f69ea2487dba8c99550ebd31e3
+run_name: adorable-mare-340
+run_uuid: 2d1602f69ea2487dba8c99550ebd31e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995398106
+status: 3
+tags: []
+user_id: kellyliu

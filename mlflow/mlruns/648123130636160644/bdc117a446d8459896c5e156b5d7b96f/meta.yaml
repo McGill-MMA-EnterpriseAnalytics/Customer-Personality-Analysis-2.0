@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/bdc117a446d8459896c5e156b5d7b96f/artifacts
+end_time: 1713995295549
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: bdc117a446d8459896c5e156b5d7b96f
+run_name: loud-conch-970
+run_uuid: bdc117a446d8459896c5e156b5d7b96f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995294082
+status: 3
+tags: []
+user_id: kellyliu

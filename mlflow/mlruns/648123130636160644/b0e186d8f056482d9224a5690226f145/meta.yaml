@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/b0e186d8f056482d9224a5690226f145/artifacts
+end_time: 1713995342605
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: b0e186d8f056482d9224a5690226f145
+run_name: secretive-snail-31
+run_uuid: b0e186d8f056482d9224a5690226f145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995341069
+status: 3
+tags: []
+user_id: kellyliu

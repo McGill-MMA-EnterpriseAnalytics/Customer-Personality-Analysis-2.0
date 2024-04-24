@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/4f775497fd324fd7883e85a11ae20910/artifacts
+end_time: 1713995132019
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 4f775497fd324fd7883e85a11ae20910
+run_name: salty-dog-373
+run_uuid: 4f775497fd324fd7883e85a11ae20910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995130236
+status: 3
+tags: []
+user_id: kellyliu

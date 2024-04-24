@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1e98f8167a594449a5c6b9d35c7beee1/artifacts
+end_time: 1713995277978
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1e98f8167a594449a5c6b9d35c7beee1
+run_name: delicate-bass-994
+run_uuid: 1e98f8167a594449a5c6b9d35c7beee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995276231
+status: 3
+tags: []
+user_id: kellyliu

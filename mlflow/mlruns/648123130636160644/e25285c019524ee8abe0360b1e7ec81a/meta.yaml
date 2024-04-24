@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e25285c019524ee8abe0360b1e7ec81a/artifacts
+end_time: 1713994630702
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e25285c019524ee8abe0360b1e7ec81a
+run_name: victorious-wren-662
+run_uuid: e25285c019524ee8abe0360b1e7ec81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994629126
+status: 3
+tags: []
+user_id: kellyliu

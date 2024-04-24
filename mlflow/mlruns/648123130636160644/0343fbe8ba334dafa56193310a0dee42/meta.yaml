@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0343fbe8ba334dafa56193310a0dee42/artifacts
+end_time: 1713994441091
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0343fbe8ba334dafa56193310a0dee42
+run_name: brawny-shrike-475
+run_uuid: 0343fbe8ba334dafa56193310a0dee42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994439261
+status: 3
+tags: []
+user_id: kellyliu

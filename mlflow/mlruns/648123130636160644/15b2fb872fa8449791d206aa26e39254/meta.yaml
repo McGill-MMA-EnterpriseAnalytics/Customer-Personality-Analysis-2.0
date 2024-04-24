@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/15b2fb872fa8449791d206aa26e39254/artifacts
+end_time: 1713994388114
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 15b2fb872fa8449791d206aa26e39254
+run_name: unruly-steed-188
+run_uuid: 15b2fb872fa8449791d206aa26e39254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994386529
+status: 3
+tags: []
+user_id: kellyliu

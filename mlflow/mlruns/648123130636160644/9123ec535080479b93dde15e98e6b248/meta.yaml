@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/9123ec535080479b93dde15e98e6b248/artifacts
+end_time: 1713995146157
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 9123ec535080479b93dde15e98e6b248
+run_name: angry-goat-193
+run_uuid: 9123ec535080479b93dde15e98e6b248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995144487
+status: 3
+tags: []
+user_id: kellyliu

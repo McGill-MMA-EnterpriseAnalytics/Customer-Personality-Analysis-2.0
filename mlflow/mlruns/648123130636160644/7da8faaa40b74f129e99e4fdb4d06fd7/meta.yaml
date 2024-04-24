@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7da8faaa40b74f129e99e4fdb4d06fd7/artifacts
+end_time: 1713995349895
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7da8faaa40b74f129e99e4fdb4d06fd7
+run_name: sedate-finch-428
+run_uuid: 7da8faaa40b74f129e99e4fdb4d06fd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995347946
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/828419cbc7f444e0bee2330d8f69a8d4/artifacts
+end_time: 1713994558919
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 828419cbc7f444e0bee2330d8f69a8d4
+run_name: honorable-moth-335
+run_uuid: 828419cbc7f444e0bee2330d8f69a8d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994557003
+status: 3
+tags: []
+user_id: kellyliu

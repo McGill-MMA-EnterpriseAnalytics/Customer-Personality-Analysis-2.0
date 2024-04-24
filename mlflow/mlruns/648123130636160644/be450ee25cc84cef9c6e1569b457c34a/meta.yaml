@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/be450ee25cc84cef9c6e1569b457c34a/artifacts
+end_time: 1713995208430
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: be450ee25cc84cef9c6e1569b457c34a
+run_name: indecisive-midge-892
+run_uuid: be450ee25cc84cef9c6e1569b457c34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995206668
+status: 3
+tags: []
+user_id: kellyliu

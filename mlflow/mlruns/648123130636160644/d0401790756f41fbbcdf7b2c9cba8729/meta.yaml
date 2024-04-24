@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d0401790756f41fbbcdf7b2c9cba8729/artifacts
+end_time: 1713995073419
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d0401790756f41fbbcdf7b2c9cba8729
+run_name: bedecked-shark-448
+run_uuid: d0401790756f41fbbcdf7b2c9cba8729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995071668
+status: 3
+tags: []
+user_id: kellyliu

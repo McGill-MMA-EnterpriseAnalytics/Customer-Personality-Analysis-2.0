@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6cc398579fb64b16956535a314606d9f/artifacts
+end_time: 1713995367324
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6cc398579fb64b16956535a314606d9f
+run_name: zealous-snail-406
+run_uuid: 6cc398579fb64b16956535a314606d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995365878
+status: 3
+tags: []
+user_id: kellyliu

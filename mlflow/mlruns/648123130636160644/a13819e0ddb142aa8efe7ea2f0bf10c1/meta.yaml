@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a13819e0ddb142aa8efe7ea2f0bf10c1/artifacts
+end_time: 1713994269923
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a13819e0ddb142aa8efe7ea2f0bf10c1
+run_name: intelligent-hen-661
+run_uuid: a13819e0ddb142aa8efe7ea2f0bf10c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994268193
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a8adf80649b943918081f8b052b1d366/artifacts
+end_time: 1713995200408
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a8adf80649b943918081f8b052b1d366
+run_name: masked-calf-821
+run_uuid: a8adf80649b943918081f8b052b1d366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995199057
+status: 3
+tags: []
+user_id: kellyliu

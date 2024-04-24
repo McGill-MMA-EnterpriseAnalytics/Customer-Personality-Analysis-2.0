@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3555c8ab1a974242a11f331ed1baa6fe/artifacts
+end_time: 1713995211415
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3555c8ab1a974242a11f331ed1baa6fe
+run_name: awesome-cub-777
+run_uuid: 3555c8ab1a974242a11f331ed1baa6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995209935
+status: 3
+tags: []
+user_id: kellyliu

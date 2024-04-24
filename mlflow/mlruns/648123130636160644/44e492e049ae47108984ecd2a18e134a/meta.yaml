@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/44e492e049ae47108984ecd2a18e134a/artifacts
+end_time: 1713995064231
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 44e492e049ae47108984ecd2a18e134a
+run_name: masked-shoat-260
+run_uuid: 44e492e049ae47108984ecd2a18e134a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995062333
+status: 3
+tags: []
+user_id: kellyliu

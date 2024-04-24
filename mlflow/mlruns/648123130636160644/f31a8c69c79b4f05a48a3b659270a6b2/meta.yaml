@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f31a8c69c79b4f05a48a3b659270a6b2/artifacts
+end_time: 1713995125736
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f31a8c69c79b4f05a48a3b659270a6b2
+run_name: abundant-auk-377
+run_uuid: f31a8c69c79b4f05a48a3b659270a6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995124180
+status: 3
+tags: []
+user_id: kellyliu

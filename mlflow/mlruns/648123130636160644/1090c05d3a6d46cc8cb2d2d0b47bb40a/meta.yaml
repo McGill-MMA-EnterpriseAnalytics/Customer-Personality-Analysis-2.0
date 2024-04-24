@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1090c05d3a6d46cc8cb2d2d0b47bb40a/artifacts
+end_time: 1713994609343
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1090c05d3a6d46cc8cb2d2d0b47bb40a
+run_name: debonair-asp-22
+run_uuid: 1090c05d3a6d46cc8cb2d2d0b47bb40a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994607819
+status: 3
+tags: []
+user_id: kellyliu

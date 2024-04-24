@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/a64157be25264f9f873a8bede89b48d5/artifacts
+end_time: 1713995122598
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: a64157be25264f9f873a8bede89b48d5
+run_name: bustling-snipe-813
+run_uuid: a64157be25264f9f873a8bede89b48d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995121104
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/0fdf5efede73435b8be5b7f52f6c9268/artifacts
+end_time: 1713995423454
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 0fdf5efede73435b8be5b7f52f6c9268
+run_name: casual-pig-801
+run_uuid: 0fdf5efede73435b8be5b7f52f6c9268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995421917
+status: 3
+tags: []
+user_id: kellyliu

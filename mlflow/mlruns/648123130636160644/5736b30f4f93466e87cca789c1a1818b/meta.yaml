@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5736b30f4f93466e87cca789c1a1818b/artifacts
+end_time: 1713995081171
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5736b30f4f93466e87cca789c1a1818b
+run_name: serious-wolf-727
+run_uuid: 5736b30f4f93466e87cca789c1a1818b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995079626
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/1ba3d379347c4b319d058322d8ad4602/artifacts
+end_time: 1713995289599
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 1ba3d379347c4b319d058322d8ad4602
+run_name: inquisitive-tern-948
+run_uuid: 1ba3d379347c4b319d058322d8ad4602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995288112
+status: 3
+tags: []
+user_id: kellyliu

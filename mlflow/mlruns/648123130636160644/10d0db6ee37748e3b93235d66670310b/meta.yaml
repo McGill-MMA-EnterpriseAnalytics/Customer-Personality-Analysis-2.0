@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/10d0db6ee37748e3b93235d66670310b/artifacts
+end_time: 1713994661276
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 10d0db6ee37748e3b93235d66670310b
+run_name: upset-cat-867
+run_uuid: 10d0db6ee37748e3b93235d66670310b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994659718
+status: 3
+tags: []
+user_id: kellyliu

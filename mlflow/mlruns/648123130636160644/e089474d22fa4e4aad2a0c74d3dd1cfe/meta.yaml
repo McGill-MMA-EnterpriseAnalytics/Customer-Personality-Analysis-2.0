@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e089474d22fa4e4aad2a0c74d3dd1cfe/artifacts
+end_time: 1713995265325
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e089474d22fa4e4aad2a0c74d3dd1cfe
+run_name: invincible-vole-494
+run_uuid: e089474d22fa4e4aad2a0c74d3dd1cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995263766
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d788756ea3de4959a009caa7f1edb390/artifacts
+end_time: 1713994389957
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d788756ea3de4959a009caa7f1edb390
+run_name: suave-carp-198
+run_uuid: d788756ea3de4959a009caa7f1edb390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994388125
+status: 3
+tags: []
+user_id: kellyliu

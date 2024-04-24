@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/95ddf8e0cb1941269df2323770fd5214/artifacts
+end_time: 1713995361440
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 95ddf8e0cb1941269df2323770fd5214
+run_name: resilient-stork-560
+run_uuid: 95ddf8e0cb1941269df2323770fd5214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995359914
+status: 3
+tags: []
+user_id: kellyliu

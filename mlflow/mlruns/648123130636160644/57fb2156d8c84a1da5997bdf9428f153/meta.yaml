@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/57fb2156d8c84a1da5997bdf9428f153/artifacts
+end_time: 1713995372099
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 57fb2156d8c84a1da5997bdf9428f153
+run_name: inquisitive-dog-53
+run_uuid: 57fb2156d8c84a1da5997bdf9428f153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995370466
+status: 3
+tags: []
+user_id: kellyliu

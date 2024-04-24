@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/da8f27bc18c14348becdf7df569a777a/artifacts
+end_time: 1713994675690
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: da8f27bc18c14348becdf7df569a777a
+run_name: crawling-cub-325
+run_uuid: da8f27bc18c14348becdf7df569a777a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994674142
+status: 3
+tags: []
+user_id: kellyliu

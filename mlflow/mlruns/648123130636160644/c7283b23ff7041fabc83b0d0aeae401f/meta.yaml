@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/c7283b23ff7041fabc83b0d0aeae401f/artifacts
+end_time: 1713995307994
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: c7283b23ff7041fabc83b0d0aeae401f
+run_name: classy-lark-579
+run_uuid: c7283b23ff7041fabc83b0d0aeae401f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995306299
+status: 3
+tags: []
+user_id: kellyliu

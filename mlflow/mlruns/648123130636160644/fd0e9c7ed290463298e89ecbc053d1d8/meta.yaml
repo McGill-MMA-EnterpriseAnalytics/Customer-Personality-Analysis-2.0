@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/fd0e9c7ed290463298e89ecbc053d1d8/artifacts
+end_time: 1713994268181
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: fd0e9c7ed290463298e89ecbc053d1d8
+run_name: kindly-moose-453
+run_uuid: fd0e9c7ed290463298e89ecbc053d1d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994266700
+status: 3
+tags: []
+user_id: kellyliu

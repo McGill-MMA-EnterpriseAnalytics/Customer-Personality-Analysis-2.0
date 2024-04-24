@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3d54896d4262483ab5589681854f1151/artifacts
+end_time: 1713995149043
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3d54896d4262483ab5589681854f1151
+run_name: big-stoat-787
+run_uuid: 3d54896d4262483ab5589681854f1151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995147626
+status: 3
+tags: []
+user_id: kellyliu

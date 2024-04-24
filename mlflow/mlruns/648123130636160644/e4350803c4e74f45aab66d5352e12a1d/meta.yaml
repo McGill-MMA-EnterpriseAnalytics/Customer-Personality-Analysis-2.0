@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/e4350803c4e74f45aab66d5352e12a1d/artifacts
+end_time: 1713995130223
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: e4350803c4e74f45aab66d5352e12a1d
+run_name: enchanting-shoat-362
+run_uuid: e4350803c4e74f45aab66d5352e12a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995128825
+status: 3
+tags: []
+user_id: kellyliu

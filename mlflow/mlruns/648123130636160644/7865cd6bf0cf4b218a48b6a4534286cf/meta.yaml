@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7865cd6bf0cf4b218a48b6a4534286cf/artifacts
+end_time: 1713995173074
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7865cd6bf0cf4b218a48b6a4534286cf
+run_name: welcoming-fawn-520
+run_uuid: 7865cd6bf0cf4b218a48b6a4534286cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995171540
+status: 3
+tags: []
+user_id: kellyliu

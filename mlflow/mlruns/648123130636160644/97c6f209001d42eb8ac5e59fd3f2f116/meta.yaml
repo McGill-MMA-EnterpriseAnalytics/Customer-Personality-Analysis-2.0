@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/97c6f209001d42eb8ac5e59fd3f2f116/artifacts
+end_time: 1713994474213
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 97c6f209001d42eb8ac5e59fd3f2f116
+run_name: upset-kit-299
+run_uuid: 97c6f209001d42eb8ac5e59fd3f2f116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994472213
+status: 3
+tags: []
+user_id: kellyliu

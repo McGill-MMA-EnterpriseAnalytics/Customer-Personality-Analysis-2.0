@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ff212091ad924149a044e2d0cf3b9e60/artifacts
+end_time: 1713994604546
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ff212091ad924149a044e2d0cf3b9e60
+run_name: likeable-shrike-616
+run_uuid: ff212091ad924149a044e2d0cf3b9e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994602863
+status: 3
+tags: []
+user_id: kellyliu

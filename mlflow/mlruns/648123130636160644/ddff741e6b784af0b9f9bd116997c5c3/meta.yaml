@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ddff741e6b784af0b9f9bd116997c5c3/artifacts
+end_time: 1713994552570
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ddff741e6b784af0b9f9bd116997c5c3
+run_name: burly-bird-123
+run_uuid: ddff741e6b784af0b9f9bd116997c5c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994551068
+status: 3
+tags: []
+user_id: kellyliu

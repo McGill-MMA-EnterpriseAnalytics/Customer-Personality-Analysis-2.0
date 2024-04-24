@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/dbfce6cfafb84e9a8a83b440bbfdfffe/artifacts
+end_time: 1713995187049
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: dbfce6cfafb84e9a8a83b440bbfdfffe
+run_name: ambitious-ram-393
+run_uuid: dbfce6cfafb84e9a8a83b440bbfdfffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995185354
+status: 3
+tags: []
+user_id: kellyliu

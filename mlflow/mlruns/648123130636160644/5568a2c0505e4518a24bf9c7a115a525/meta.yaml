@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/5568a2c0505e4518a24bf9c7a115a525/artifacts
+end_time: 1713995268534
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 5568a2c0505e4518a24bf9c7a115a525
+run_name: orderly-rat-239
+run_uuid: 5568a2c0505e4518a24bf9c7a115a525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995266898
+status: 3
+tags: []
+user_id: kellyliu

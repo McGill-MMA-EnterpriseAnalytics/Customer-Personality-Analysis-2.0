@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f33974a607ca47d4a5899c9c9f54a573/artifacts
+end_time: 1713995280831
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f33974a607ca47d4a5899c9c9f54a573
+run_name: flawless-perch-177
+run_uuid: f33974a607ca47d4a5899c9c9f54a573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995279416
+status: 3
+tags: []
+user_id: kellyliu

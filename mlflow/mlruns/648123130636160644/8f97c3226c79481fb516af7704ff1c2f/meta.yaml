@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/8f97c3226c79481fb516af7704ff1c2f/artifacts
+end_time: 1713995071658
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 8f97c3226c79481fb516af7704ff1c2f
+run_name: popular-wolf-2
+run_uuid: 8f97c3226c79481fb516af7704ff1c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995070061
+status: 3
+tags: []
+user_id: kellyliu

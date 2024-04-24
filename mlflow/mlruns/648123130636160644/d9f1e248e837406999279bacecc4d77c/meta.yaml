@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/d9f1e248e837406999279bacecc4d77c/artifacts
+end_time: 1713994614054
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: d9f1e248e837406999279bacecc4d77c
+run_name: bouncy-snail-476
+run_uuid: d9f1e248e837406999279bacecc4d77c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994612488
+status: 3
+tags: []
+user_id: kellyliu

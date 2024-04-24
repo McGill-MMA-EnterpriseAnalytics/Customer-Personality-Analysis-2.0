@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/491f821681824c218d4684b8b8b8f62f/artifacts
+end_time: 1713994308923
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 491f821681824c218d4684b8b8b8f62f
+run_name: valuable-foal-912
+run_uuid: 491f821681824c218d4684b8b8b8f62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994307109
+status: 3
+tags: []
+user_id: kellyliu

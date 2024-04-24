@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3b9cec9060d3488d974dc48e1fc4fa3e/artifacts
+end_time: 1713994572367
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3b9cec9060d3488d974dc48e1fc4fa3e
+run_name: gregarious-rat-921
+run_uuid: 3b9cec9060d3488d974dc48e1fc4fa3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994570910
+status: 3
+tags: []
+user_id: kellyliu

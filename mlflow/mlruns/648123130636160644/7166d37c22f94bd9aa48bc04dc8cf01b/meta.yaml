@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7166d37c22f94bd9aa48bc04dc8cf01b/artifacts
+end_time: 1713995327724
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7166d37c22f94bd9aa48bc04dc8cf01b
+run_name: enthused-lynx-874
+run_uuid: 7166d37c22f94bd9aa48bc04dc8cf01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995326345
+status: 3
+tags: []
+user_id: kellyliu

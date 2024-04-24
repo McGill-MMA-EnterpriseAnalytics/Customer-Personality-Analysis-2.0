@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f135909e2af34e8890c138ac470b4aef/artifacts
+end_time: 1713994556993
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f135909e2af34e8890c138ac470b4aef
+run_name: efficient-steed-591
+run_uuid: f135909e2af34e8890c138ac470b4aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994555554
+status: 3
+tags: []
+user_id: kellyliu

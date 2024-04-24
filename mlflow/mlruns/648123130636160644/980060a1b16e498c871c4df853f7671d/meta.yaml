@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/980060a1b16e498c871c4df853f7671d/artifacts
+end_time: 1713994316659
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 980060a1b16e498c871c4df853f7671d
+run_name: rumbling-foal-813
+run_uuid: 980060a1b16e498c871c4df853f7671d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994315292
+status: 3
+tags: []
+user_id: kellyliu

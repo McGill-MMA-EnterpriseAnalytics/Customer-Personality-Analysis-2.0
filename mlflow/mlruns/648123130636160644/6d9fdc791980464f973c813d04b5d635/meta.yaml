@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/6d9fdc791980464f973c813d04b5d635/artifacts
+end_time: 1713994400857
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 6d9fdc791980464f973c813d04b5d635
+run_name: delicate-trout-360
+run_uuid: 6d9fdc791980464f973c813d04b5d635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994398607
+status: 3
+tags: []
+user_id: kellyliu

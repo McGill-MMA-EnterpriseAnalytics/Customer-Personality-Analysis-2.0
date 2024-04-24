@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/57a2c3f2a8ab46c98c76bb3bd783f4dd/artifacts
+end_time: 1713995388182
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 57a2c3f2a8ab46c98c76bb3bd783f4dd
+run_name: youthful-bee-551
+run_uuid: 57a2c3f2a8ab46c98c76bb3bd783f4dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995386473
+status: 3
+tags: []
+user_id: kellyliu

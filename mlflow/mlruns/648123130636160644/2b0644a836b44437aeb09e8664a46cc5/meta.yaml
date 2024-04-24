@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2b0644a836b44437aeb09e8664a46cc5/artifacts
+end_time: 1713998836332
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2b0644a836b44437aeb09e8664a46cc5
+run_name: zealous-fawn-242
+run_uuid: 2b0644a836b44437aeb09e8664a46cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995445039
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/64fbcdc54da8498ca18744824cbaf15c/artifacts
+end_time: 1713995339564
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 64fbcdc54da8498ca18744824cbaf15c
+run_name: fun-midge-653
+run_uuid: 64fbcdc54da8498ca18744824cbaf15c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995338061
+status: 3
+tags: []
+user_id: kellyliu

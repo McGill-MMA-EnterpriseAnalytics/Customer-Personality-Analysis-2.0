@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/2fc912832c1148c78e819d71716b5a20/artifacts
+end_time: 1713995298535
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 2fc912832c1148c78e819d71716b5a20
+run_name: worried-ape-442
+run_uuid: 2fc912832c1148c78e819d71716b5a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995297068
+status: 3
+tags: []
+user_id: kellyliu

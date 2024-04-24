@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/62919cd671e04303876bfa7597ee64c2/artifacts
+end_time: 1713995201786
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 62919cd671e04303876bfa7597ee64c2
+run_name: unruly-snake-273
+run_uuid: 62919cd671e04303876bfa7597ee64c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995200419
+status: 3
+tags: []
+user_id: kellyliu

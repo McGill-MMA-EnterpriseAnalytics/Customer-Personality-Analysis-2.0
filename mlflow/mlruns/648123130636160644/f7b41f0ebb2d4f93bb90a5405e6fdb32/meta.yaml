@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f7b41f0ebb2d4f93bb90a5405e6fdb32/artifacts
+end_time: 1713995431614
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f7b41f0ebb2d4f93bb90a5405e6fdb32
+run_name: legendary-sow-713
+run_uuid: f7b41f0ebb2d4f93bb90a5405e6fdb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995429909
+status: 3
+tags: []
+user_id: kellyliu

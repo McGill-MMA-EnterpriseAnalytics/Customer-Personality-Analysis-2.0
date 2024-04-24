@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/db0066f8cb0c4f85aed2dd58dae7f4cd/artifacts
+end_time: 1713994298797
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: db0066f8cb0c4f85aed2dd58dae7f4cd
+run_name: marvelous-smelt-727
+run_uuid: db0066f8cb0c4f85aed2dd58dae7f4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994296823
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/fb9f662c0d454191aa66d63c0df6bdca/artifacts
+end_time: 1713995336606
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: fb9f662c0d454191aa66d63c0df6bdca
+run_name: glamorous-dolphin-78
+run_uuid: fb9f662c0d454191aa66d63c0df6bdca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995335175
+status: 3
+tags: []
+user_id: kellyliu

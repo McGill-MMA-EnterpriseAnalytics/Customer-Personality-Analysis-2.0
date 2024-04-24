@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/092f75c2059a456898cedc374cac499f/artifacts
+end_time: 1713995276222
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 092f75c2059a456898cedc374cac499f
+run_name: capricious-fowl-491
+run_uuid: 092f75c2059a456898cedc374cac499f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995274806
+status: 3
+tags: []
+user_id: kellyliu

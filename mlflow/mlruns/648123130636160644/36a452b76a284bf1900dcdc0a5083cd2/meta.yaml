@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/36a452b76a284bf1900dcdc0a5083cd2/artifacts
+end_time: 1713995078053
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 36a452b76a284bf1900dcdc0a5083cd2
+run_name: enthused-snipe-510
+run_uuid: 36a452b76a284bf1900dcdc0a5083cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995076572
+status: 3
+tags: []
+user_id: kellyliu

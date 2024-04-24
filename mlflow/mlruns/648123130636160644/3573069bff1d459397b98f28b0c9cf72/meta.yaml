@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/3573069bff1d459397b98f28b0c9cf72/artifacts
+end_time: 1713994446252
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 3573069bff1d459397b98f28b0c9cf72
+run_name: languid-flea-491
+run_uuid: 3573069bff1d459397b98f28b0c9cf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994444531
+status: 3
+tags: []
+user_id: kellyliu

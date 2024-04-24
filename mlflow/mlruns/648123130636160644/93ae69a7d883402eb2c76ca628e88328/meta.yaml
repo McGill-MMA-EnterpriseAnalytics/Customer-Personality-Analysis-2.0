@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/93ae69a7d883402eb2c76ca628e88328/artifacts
+end_time: 1713994272899
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 93ae69a7d883402eb2c76ca628e88328
+run_name: trusting-horse-763
+run_uuid: 93ae69a7d883402eb2c76ca628e88328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994271419
+status: 3
+tags: []
+user_id: kellyliu

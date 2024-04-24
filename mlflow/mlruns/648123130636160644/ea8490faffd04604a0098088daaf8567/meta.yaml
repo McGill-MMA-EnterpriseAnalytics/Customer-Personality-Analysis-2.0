@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/ea8490faffd04604a0098088daaf8567/artifacts
+end_time: 1713995383290
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: ea8490faffd04604a0098088daaf8567
+run_name: resilient-snake-487
+run_uuid: ea8490faffd04604a0098088daaf8567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995381777
+status: 3
+tags: []
+user_id: kellyliu

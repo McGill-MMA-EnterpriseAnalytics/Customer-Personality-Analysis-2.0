@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/06d14272384c4807917e2a90330f0bea/artifacts
+end_time: 1713994345619
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 06d14272384c4807917e2a90330f0bea
+run_name: skittish-eel-552
+run_uuid: 06d14272384c4807917e2a90330f0bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994343757
+status: 3
+tags: []
+user_id: kellyliu

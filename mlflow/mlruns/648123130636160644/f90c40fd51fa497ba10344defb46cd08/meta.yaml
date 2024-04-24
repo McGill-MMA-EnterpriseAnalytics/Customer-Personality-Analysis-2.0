@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/f90c40fd51fa497ba10344defb46cd08/artifacts
+end_time: 1713994371733
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: f90c40fd51fa497ba10344defb46cd08
+run_name: carefree-swan-265
+run_uuid: f90c40fd51fa497ba10344defb46cd08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994369985
+status: 3
+tags: []
+user_id: kellyliu

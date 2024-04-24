@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648123130636160644/7fcbf6348cb64388bcd7fbb6fa8db313/artifacts
+end_time: 1713995100352
+entry_point_name: ''
+experiment_id: '648123130636160644'
+lifecycle_stage: active
+run_id: 7fcbf6348cb64388bcd7fbb6fa8db313
+run_name: mysterious-bass-109
+run_uuid: 7fcbf6348cb64388bcd7fbb6fa8db313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995098519
+status: 3
+tags: []
+user_id: kellyliu
