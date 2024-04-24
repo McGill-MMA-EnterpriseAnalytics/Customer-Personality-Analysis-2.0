@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/625487824004217853
+creation_time: 1713984059120
+experiment_id: '625487824004217853'
+last_update_time: 1713984059120
+lifecycle_stage: active
+name: DT_GMM_Cluster_Model

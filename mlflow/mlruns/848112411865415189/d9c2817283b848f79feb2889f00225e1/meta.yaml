@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848112411865415189/d9c2817283b848f79feb2889f00225e1/artifacts
+end_time: 1713983341349
+entry_point_name: ''
+experiment_id: '848112411865415189'
+lifecycle_stage: active
+run_id: d9c2817283b848f79feb2889f00225e1
+run_name: masked-lamb-14
+run_uuid: d9c2817283b848f79feb2889f00225e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983341329
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625487824004217853/0e2c690600d04972bee0e6f4a3d8f0d5/artifacts
+end_time: 1713984061310
+entry_point_name: ''
+experiment_id: '625487824004217853'
+lifecycle_stage: active
+run_id: 0e2c690600d04972bee0e6f4a3d8f0d5
+run_name: unique-squid-677
+run_uuid: 0e2c690600d04972bee0e6f4a3d8f0d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713984059365
+status: 3
+tags: []
+user_id: kellyliu

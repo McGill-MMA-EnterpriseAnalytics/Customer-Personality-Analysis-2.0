@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848112411865415189/35eb526e216d4b4880bac47a0e04bcc4/artifacts
+end_time: 1713983423007
+entry_point_name: ''
+experiment_id: '848112411865415189'
+lifecycle_stage: active
+run_id: 35eb526e216d4b4880bac47a0e04bcc4
+run_name: salty-snail-240
+run_uuid: 35eb526e216d4b4880bac47a0e04bcc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983422992
+status: 3
+tags: []
+user_id: kellyliu
