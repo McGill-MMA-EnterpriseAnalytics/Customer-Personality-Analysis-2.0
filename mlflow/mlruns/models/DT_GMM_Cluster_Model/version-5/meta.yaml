@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713986283448
+current_stage: None
+description: ''
+last_updated_timestamp: 1713986283448
+name: DT_GMM_Cluster_Model
+run_id: 7605399f5e194c8b99059fa9d83a0b95
+run_link: ''
+source: mlflow-artifacts:/322767974938960504/7605399f5e194c8b99059fa9d83a0b95/artifacts/DT_GMM_Interpre_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/322767974938960504/7605399f5e194c8b99059fa9d83a0b95/artifacts/DT_GMM_Interpre_model
+user_id: null
+version: 5

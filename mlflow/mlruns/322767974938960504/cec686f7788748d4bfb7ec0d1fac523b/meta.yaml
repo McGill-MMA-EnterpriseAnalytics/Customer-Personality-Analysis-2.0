@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322767974938960504/cec686f7788748d4bfb7ec0d1fac523b/artifacts
+end_time: 1713984586842
+entry_point_name: ''
+experiment_id: '322767974938960504'
+lifecycle_stage: active
+run_id: cec686f7788748d4bfb7ec0d1fac523b
+run_name: charming-sow-144
+run_uuid: cec686f7788748d4bfb7ec0d1fac523b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713984585003
+status: 3
+tags: []
+user_id: kellyliu

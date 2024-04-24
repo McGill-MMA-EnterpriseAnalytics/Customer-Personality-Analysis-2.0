@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/322767974938960504
+creation_time: 1713984498197
+experiment_id: '322767974938960504'
+last_update_time: 1713984498197
+lifecycle_stage: active
+name: DT_FCM_Cluster_Model
