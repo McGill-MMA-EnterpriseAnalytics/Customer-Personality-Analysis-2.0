@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/26b63cce8dc844c9af8c1caf5df3f0e4/artifacts
+end_time: 1714057925618
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 26b63cce8dc844c9af8c1caf5df3f0e4
+run_name: merciful-ant-446
+run_uuid: 26b63cce8dc844c9af8c1caf5df3f0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002216313
+status: 3
+tags: []
+user_id: kellyliu

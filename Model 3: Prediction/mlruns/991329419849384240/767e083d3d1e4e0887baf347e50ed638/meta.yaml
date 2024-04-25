@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/767e083d3d1e4e0887baf347e50ed638/artifacts
+end_time: 1714057832456
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 767e083d3d1e4e0887baf347e50ed638
+run_name: carefree-dolphin-298
+run_uuid: 767e083d3d1e4e0887baf347e50ed638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002216313
+status: 3
+tags: []
+user_id: kellyliu
