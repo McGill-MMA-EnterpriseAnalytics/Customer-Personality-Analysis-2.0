@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/198d4b034b8c4c4aabbba3b174d0f06d/artifacts
+end_time: 1714058266678
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 198d4b034b8c4c4aabbba3b174d0f06d
+run_name: secretive-seal-572
+run_uuid: 198d4b034b8c4c4aabbba3b174d0f06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002216313
+status: 3
+tags: []
+user_id: kellyliu

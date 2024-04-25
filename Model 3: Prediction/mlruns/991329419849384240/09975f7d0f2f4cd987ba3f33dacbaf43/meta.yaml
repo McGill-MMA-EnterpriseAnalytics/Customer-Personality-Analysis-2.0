@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/09975f7d0f2f4cd987ba3f33dacbaf43/artifacts
+end_time: 1714058400283
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 09975f7d0f2f4cd987ba3f33dacbaf43
+run_name: legendary-kite-30
+run_uuid: 09975f7d0f2f4cd987ba3f33dacbaf43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002216313
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/711bf5071f9e44f98cb06664a85e45be/artifacts
+end_time: 1714058266678
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 711bf5071f9e44f98cb06664a85e45be
+run_name: casual-wren-995
+run_uuid: 711bf5071f9e44f98cb06664a85e45be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714002216313
+status: 3
+tags: []
+user_id: kellyliu

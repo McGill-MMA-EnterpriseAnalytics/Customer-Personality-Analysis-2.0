@@ -1,8 +1,8 @@
 aliases: []
 creation_timestamp: 1714002107394
-current_stage: Production
+current_stage: Staging
 description: ''
-last_updated_timestamp: 1714002312671
+last_updated_timestamp: 1714058386237
 name: Customer_Segment_Prediction_Model
 run_id: 5aef540bef7b41e1b6fdcbbe145bd1c3
 run_link: ''
