@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/2242c4e375a14b62b168a93294462f25/artifacts
+end_time: 1714099727325
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 2242c4e375a14b62b168a93294462f25
+run_name: agreeable-stag-712
+run_uuid: 2242c4e375a14b62b168a93294462f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099725841
+status: 3
+tags: []
+user_id: kellyliu

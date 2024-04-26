@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/fd1c063f7a594ff8838b35e989dc9048/artifacts
+end_time: 1714111382164
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: fd1c063f7a594ff8838b35e989dc9048
+run_name: gregarious-shark-189
+run_uuid: fd1c063f7a594ff8838b35e989dc9048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111380934
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/79dbc1fc158e476b9ce39b57f7b30b44/artifacts
+end_time: 1714111491629
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 79dbc1fc158e476b9ce39b57f7b30b44
+run_name: thundering-hen-952
+run_uuid: 79dbc1fc158e476b9ce39b57f7b30b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111490145
+status: 3
+tags: []
+user_id: kellyliu

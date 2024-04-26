@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/92adb5c6b9654450b8f460ece8324980/artifacts
+end_time: 1714111332120
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 92adb5c6b9654450b8f460ece8324980
+run_name: stately-grouse-498
+run_uuid: 92adb5c6b9654450b8f460ece8324980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111330823
+status: 3
+tags: []
+user_id: kellyliu

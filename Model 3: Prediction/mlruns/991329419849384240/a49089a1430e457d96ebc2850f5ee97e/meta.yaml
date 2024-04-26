@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/a49089a1430e457d96ebc2850f5ee97e/artifacts
+end_time: 1714111540912
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: a49089a1430e457d96ebc2850f5ee97e
+run_name: skittish-rook-273
+run_uuid: a49089a1430e457d96ebc2850f5ee97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111539230
+status: 3
+tags: []
+user_id: kellyliu

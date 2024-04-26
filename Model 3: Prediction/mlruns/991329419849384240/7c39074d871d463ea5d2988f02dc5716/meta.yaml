@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/7c39074d871d463ea5d2988f02dc5716/artifacts
+end_time: 1714099671287
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 7c39074d871d463ea5d2988f02dc5716
+run_name: calm-robin-478
+run_uuid: 7c39074d871d463ea5d2988f02dc5716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099669868
+status: 3
+tags: []
+user_id: kellyliu

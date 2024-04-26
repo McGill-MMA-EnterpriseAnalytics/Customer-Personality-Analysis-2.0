@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/3edf1cbe0f544a71b31a77e6444cb8fc/artifacts
+end_time: 1714111498826
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 3edf1cbe0f544a71b31a77e6444cb8fc
+run_name: salty-flea-101
+run_uuid: 3edf1cbe0f544a71b31a77e6444cb8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111497417
+status: 3
+tags: []
+user_id: kellyliu

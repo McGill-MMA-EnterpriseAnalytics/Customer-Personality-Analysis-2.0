@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/13ffab80bdc04704a932f131095f7cf5/artifacts
+end_time: 1714099730273
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 13ffab80bdc04704a932f131095f7cf5
+run_name: gentle-trout-611
+run_uuid: 13ffab80bdc04704a932f131095f7cf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099728854
+status: 3
+tags: []
+user_id: kellyliu

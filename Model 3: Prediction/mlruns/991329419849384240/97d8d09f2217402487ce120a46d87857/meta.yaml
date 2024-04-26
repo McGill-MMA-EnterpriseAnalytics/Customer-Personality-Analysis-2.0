@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/97d8d09f2217402487ce120a46d87857/artifacts
+end_time: 1714111547469
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 97d8d09f2217402487ce120a46d87857
+run_name: gifted-cub-319
+run_uuid: 97d8d09f2217402487ce120a46d87857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111545824
+status: 3
+tags: []
+user_id: kellyliu

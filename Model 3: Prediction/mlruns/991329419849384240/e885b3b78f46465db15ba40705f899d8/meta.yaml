@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/e885b3b78f46465db15ba40705f899d8/artifacts
+end_time: 1714111967110
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: e885b3b78f46465db15ba40705f899d8
+run_name: bedecked-fowl-749
+run_uuid: e885b3b78f46465db15ba40705f899d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111965753
+status: 3
+tags: []
+user_id: kellyliu

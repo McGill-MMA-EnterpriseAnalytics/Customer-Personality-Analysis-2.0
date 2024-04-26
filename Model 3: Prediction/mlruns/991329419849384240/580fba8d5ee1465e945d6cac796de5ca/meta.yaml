@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/580fba8d5ee1465e945d6cac796de5ca/artifacts
+end_time: 1714111536395
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 580fba8d5ee1465e945d6cac796de5ca
+run_name: suave-steed-209
+run_uuid: 580fba8d5ee1465e945d6cac796de5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111535049
+status: 3
+tags: []
+user_id: kellyliu

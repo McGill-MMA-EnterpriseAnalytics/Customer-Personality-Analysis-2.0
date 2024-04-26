@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/6aa437a4c33f4c05a02b9fd5c2065d45/artifacts
+end_time: 1714111991936
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 6aa437a4c33f4c05a02b9fd5c2065d45
+run_name: defiant-ape-570
+run_uuid: 6aa437a4c33f4c05a02b9fd5c2065d45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111990585
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/86582005f9d440cb92064c0079a3f1b4/artifacts
+end_time: 1714111380925
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 86582005f9d440cb92064c0079a3f1b4
+run_name: upbeat-moose-339
+run_uuid: 86582005f9d440cb92064c0079a3f1b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111379532
+status: 3
+tags: []
+user_id: kellyliu

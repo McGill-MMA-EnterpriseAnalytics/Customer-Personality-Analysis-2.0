@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/38f54fda228b4256b0de032d01f4bbe1/artifacts
+end_time: 1714099749910
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 38f54fda228b4256b0de032d01f4bbe1
+run_name: unruly-lark-678
+run_uuid: 38f54fda228b4256b0de032d01f4bbe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099748290
+status: 3
+tags: []
+user_id: kellyliu

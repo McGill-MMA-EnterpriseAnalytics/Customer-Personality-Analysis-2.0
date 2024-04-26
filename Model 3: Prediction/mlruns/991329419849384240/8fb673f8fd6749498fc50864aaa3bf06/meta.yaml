@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/8fb673f8fd6749498fc50864aaa3bf06/artifacts
+end_time: 1714111964388
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 8fb673f8fd6749498fc50864aaa3bf06
+run_name: enthused-conch-238
+run_uuid: 8fb673f8fd6749498fc50864aaa3bf06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111963046
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/585f6de315bd46eab3a2eca95fa45f56/artifacts
+end_time: 1714099694656
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 585f6de315bd46eab3a2eca95fa45f56
+run_name: nebulous-bass-52
+run_uuid: 585f6de315bd46eab3a2eca95fa45f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099693261
+status: 3
+tags: []
+user_id: kellyliu

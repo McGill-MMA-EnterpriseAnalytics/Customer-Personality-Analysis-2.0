@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/75313a30078d4e4aa9cb4ea36f773fae/artifacts
+end_time: 1714099715394
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 75313a30078d4e4aa9cb4ea36f773fae
+run_name: redolent-sloth-491
+run_uuid: 75313a30078d4e4aa9cb4ea36f773fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099713932
+status: 3
+tags: []
+user_id: kellyliu

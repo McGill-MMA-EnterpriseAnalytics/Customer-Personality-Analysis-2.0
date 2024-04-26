@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/da574b48a8104fe983f9905fcf0aba15/artifacts
+end_time: 1714099698911
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: da574b48a8104fe983f9905fcf0aba15
+run_name: gentle-hare-223
+run_uuid: da574b48a8104fe983f9905fcf0aba15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099697530
+status: 3
+tags: []
+user_id: kellyliu

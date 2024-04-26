@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/1696da6656fb431e8ad10f91cdd03f5c/artifacts
+end_time: 1714111977675
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 1696da6656fb431e8ad10f91cdd03f5c
+run_name: amusing-flea-759
+run_uuid: 1696da6656fb431e8ad10f91cdd03f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111976351
+status: 3
+tags: []
+user_id: kellyliu

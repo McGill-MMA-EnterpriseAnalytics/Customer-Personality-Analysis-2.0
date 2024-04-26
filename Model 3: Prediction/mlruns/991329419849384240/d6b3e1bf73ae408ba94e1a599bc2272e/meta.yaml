@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/d6b3e1bf73ae408ba94e1a599bc2272e/artifacts
+end_time: 1714111362709
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: d6b3e1bf73ae408ba94e1a599bc2272e
+run_name: nimble-bug-555
+run_uuid: d6b3e1bf73ae408ba94e1a599bc2272e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111361425
+status: 3
+tags: []
+user_id: kellyliu

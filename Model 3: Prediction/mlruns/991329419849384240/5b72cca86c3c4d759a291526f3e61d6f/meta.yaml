@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/5b72cca86c3c4d759a291526f3e61d6f/artifacts
+end_time: 1714111980591
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 5b72cca86c3c4d759a291526f3e61d6f
+run_name: awesome-zebra-96
+run_uuid: 5b72cca86c3c4d759a291526f3e61d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111979078
+status: 3
+tags: []
+user_id: kellyliu

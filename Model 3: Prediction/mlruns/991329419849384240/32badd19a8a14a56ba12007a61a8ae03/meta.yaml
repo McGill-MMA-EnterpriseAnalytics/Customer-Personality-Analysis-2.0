@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/32badd19a8a14a56ba12007a61a8ae03/artifacts
+end_time: 1714099719780
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 32badd19a8a14a56ba12007a61a8ae03
+run_name: efficient-dog-11
+run_uuid: 32badd19a8a14a56ba12007a61a8ae03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099718321
+status: 3
+tags: []
+user_id: kellyliu

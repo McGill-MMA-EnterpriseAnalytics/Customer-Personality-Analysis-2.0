@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/2f710e7781d74ea993a7fc948e2e03b0/artifacts
+end_time: 1714111987788
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 2f710e7781d74ea993a7fc948e2e03b0
+run_name: traveling-gnat-468
+run_uuid: 2f710e7781d74ea993a7fc948e2e03b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111986100
+status: 3
+tags: []
+user_id: kellyliu

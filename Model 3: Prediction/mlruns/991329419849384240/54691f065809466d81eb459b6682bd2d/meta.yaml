@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/54691f065809466d81eb459b6682bd2d/artifacts
+end_time: 1714111951076
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 54691f065809466d81eb459b6682bd2d
+run_name: skittish-penguin-717
+run_uuid: 54691f065809466d81eb459b6682bd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111949281
+status: 3
+tags: []
+user_id: kellyliu

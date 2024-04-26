@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/c5a73e4d2c3344abb9e349c62fd7f5f3/artifacts
+end_time: 1714112017149
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: c5a73e4d2c3344abb9e349c62fd7f5f3
+run_name: vaunted-crow-727
+run_uuid: c5a73e4d2c3344abb9e349c62fd7f5f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112015555
+status: 3
+tags: []
+user_id: kellyliu

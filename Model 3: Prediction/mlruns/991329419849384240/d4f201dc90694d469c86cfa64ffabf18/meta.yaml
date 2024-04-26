@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/d4f201dc90694d469c86cfa64ffabf18/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: d4f201dc90694d469c86cfa64ffabf18
+run_name: ambitious-midge-168
+run_uuid: d4f201dc90694d469c86cfa64ffabf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099754887
+status: 1
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/bae8d0c5d84e46bbb81b15869b26a958/artifacts
+end_time: 1714112020383
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: bae8d0c5d84e46bbb81b15869b26a958
+run_name: glamorous-slug-629
+run_uuid: bae8d0c5d84e46bbb81b15869b26a958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112018859
+status: 3
+tags: []
+user_id: kellyliu

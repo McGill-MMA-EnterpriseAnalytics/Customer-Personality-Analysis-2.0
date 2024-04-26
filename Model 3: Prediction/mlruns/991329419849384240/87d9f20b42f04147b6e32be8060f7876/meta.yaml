@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/87d9f20b42f04147b6e32be8060f7876/artifacts
+end_time: 1714111340486
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 87d9f20b42f04147b6e32be8060f7876
+run_name: valuable-shrew-83
+run_uuid: 87d9f20b42f04147b6e32be8060f7876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111339117
+status: 3
+tags: []
+user_id: kellyliu

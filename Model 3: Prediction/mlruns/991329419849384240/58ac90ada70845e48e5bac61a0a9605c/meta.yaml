@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/58ac90ada70845e48e5bac61a0a9605c/artifacts
+end_time: 1714111521901
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 58ac90ada70845e48e5bac61a0a9605c
+run_name: efficient-colt-49
+run_uuid: 58ac90ada70845e48e5bac61a0a9605c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111520198
+status: 3
+tags: []
+user_id: kellyliu

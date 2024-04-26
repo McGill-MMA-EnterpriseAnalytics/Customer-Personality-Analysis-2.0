@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/4613bb2ef10e4dd1ae033a2167452d26/artifacts
+end_time: 1714111483014
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 4613bb2ef10e4dd1ae033a2167452d26
+run_name: clean-gull-749
+run_uuid: 4613bb2ef10e4dd1ae033a2167452d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111481745
+status: 3
+tags: []
+user_id: kellyliu

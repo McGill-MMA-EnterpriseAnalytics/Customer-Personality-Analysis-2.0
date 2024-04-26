@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/2f6e08335a5248afabe08f97480794c0/artifacts
+end_time: 1714099696129
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 2f6e08335a5248afabe08f97480794c0
+run_name: welcoming-snail-290
+run_uuid: 2f6e08335a5248afabe08f97480794c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099694665
+status: 3
+tags: []
+user_id: kellyliu

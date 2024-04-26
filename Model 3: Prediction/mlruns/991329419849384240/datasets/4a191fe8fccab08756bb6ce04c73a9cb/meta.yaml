@@ -1,0 +1,9 @@
+digest: 423a8859
+name: dataset
+profile: '{"features_shape": [894, 62], "features_size": 55428, "features_nbytes":
+  221712}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 62]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "kellyliu", "mlflow.source.name": "/Users/kellyliu/anaconda3/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

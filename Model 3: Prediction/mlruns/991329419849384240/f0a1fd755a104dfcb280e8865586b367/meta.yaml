@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/f0a1fd755a104dfcb280e8865586b367/artifacts
+end_time: 1714111971083
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: f0a1fd755a104dfcb280e8865586b367
+run_name: lyrical-moose-171
+run_uuid: f0a1fd755a104dfcb280e8865586b367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111969685
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/5c1b7003f9074d52aee5f35f7909f172/artifacts
+end_time: 1714099736310
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 5c1b7003f9074d52aee5f35f7909f172
+run_name: fearless-ape-275
+run_uuid: 5c1b7003f9074d52aee5f35f7909f172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099734905
+status: 3
+tags: []
+user_id: kellyliu

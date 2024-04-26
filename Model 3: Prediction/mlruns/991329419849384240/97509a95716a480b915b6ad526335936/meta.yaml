@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/97509a95716a480b915b6ad526335936/artifacts
+end_time: 1714111996739
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 97509a95716a480b915b6ad526335936
+run_name: polite-steed-734
+run_uuid: 97509a95716a480b915b6ad526335936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111995329
+status: 3
+tags: []
+user_id: kellyliu

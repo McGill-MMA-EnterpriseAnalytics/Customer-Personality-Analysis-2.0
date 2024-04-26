@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/ff903833cdd04dc7b21782fdf97b6685/artifacts
+end_time: 1714099609563
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: ff903833cdd04dc7b21782fdf97b6685
+run_name: gregarious-jay-528
+run_uuid: ff903833cdd04dc7b21782fdf97b6685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099608123
+status: 4
+tags: []
+user_id: kellyliu

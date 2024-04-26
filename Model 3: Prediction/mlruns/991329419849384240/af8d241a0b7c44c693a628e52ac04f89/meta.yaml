@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/af8d241a0b7c44c693a628e52ac04f89/artifacts
+end_time: 1714111337736
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: af8d241a0b7c44c693a628e52ac04f89
+run_name: indecisive-gnu-795
+run_uuid: af8d241a0b7c44c693a628e52ac04f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111336373
+status: 3
+tags: []
+user_id: kellyliu

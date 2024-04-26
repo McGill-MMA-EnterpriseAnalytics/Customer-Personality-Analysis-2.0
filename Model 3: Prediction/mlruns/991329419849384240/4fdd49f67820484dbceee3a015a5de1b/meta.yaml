@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/4fdd49f67820484dbceee3a015a5de1b/artifacts
+end_time: 1714111989221
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 4fdd49f67820484dbceee3a015a5de1b
+run_name: illustrious-goat-408
+run_uuid: 4fdd49f67820484dbceee3a015a5de1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111987803
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/ef037bb3b47a47c08356b29e93d3d620/artifacts
+end_time: 1714112021781
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: ef037bb3b47a47c08356b29e93d3d620
+run_name: fortunate-panda-561
+run_uuid: ef037bb3b47a47c08356b29e93d3d620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112020393
+status: 3
+tags: []
+user_id: kellyliu

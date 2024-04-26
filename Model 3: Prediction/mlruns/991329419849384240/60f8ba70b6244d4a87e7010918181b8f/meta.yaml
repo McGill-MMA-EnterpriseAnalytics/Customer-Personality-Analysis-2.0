@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/60f8ba70b6244d4a87e7010918181b8f/artifacts
+end_time: 1714111374114
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 60f8ba70b6244d4a87e7010918181b8f
+run_name: bright-fowl-563
+run_uuid: 60f8ba70b6244d4a87e7010918181b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111372629
+status: 3
+tags: []
+user_id: kellyliu

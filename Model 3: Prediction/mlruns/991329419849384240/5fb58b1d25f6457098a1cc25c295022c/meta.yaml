@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/5fb58b1d25f6457098a1cc25c295022c/artifacts
+end_time: 1714099751700
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 5fb58b1d25f6457098a1cc25c295022c
+run_name: skillful-loon-618
+run_uuid: 5fb58b1d25f6457098a1cc25c295022c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099749921
+status: 3
+tags: []
+user_id: kellyliu

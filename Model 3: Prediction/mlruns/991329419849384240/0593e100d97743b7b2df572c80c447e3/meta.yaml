@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/0593e100d97743b7b2df572c80c447e3/artifacts
+end_time: 1714111501457
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 0593e100d97743b7b2df572c80c447e3
+run_name: valuable-calf-462
+run_uuid: 0593e100d97743b7b2df572c80c447e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111500125
+status: 3
+tags: []
+user_id: kellyliu

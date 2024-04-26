@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/b0a92876993f49a5953b1718f7f75079/artifacts
+end_time: 1714111533825
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: b0a92876993f49a5953b1718f7f75079
+run_name: agreeable-toad-436
+run_uuid: b0a92876993f49a5953b1718f7f75079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111532537
+status: 3
+tags: []
+user_id: kellyliu

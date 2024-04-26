@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/029a6dca0af94fbfaaaa9ab685ae65de/artifacts
+end_time: 1714099668415
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 029a6dca0af94fbfaaaa9ab685ae65de
+run_name: brawny-kit-367
+run_uuid: 029a6dca0af94fbfaaaa9ab685ae65de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099666930
+status: 3
+tags: []
+user_id: kellyliu

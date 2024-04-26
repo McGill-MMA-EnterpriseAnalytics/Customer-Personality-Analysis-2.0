@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/7705979b11574de885502eebcb5431bc/artifacts
+end_time: 1714099746733
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 7705979b11574de885502eebcb5431bc
+run_name: dashing-kit-466
+run_uuid: 7705979b11574de885502eebcb5431bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099745241
+status: 3
+tags: []
+user_id: kellyliu

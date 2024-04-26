@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/78e3451da95a48b28a926e9d07521e20/artifacts
+end_time: 1714099705980
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 78e3451da95a48b28a926e9d07521e20
+run_name: delightful-hog-790
+run_uuid: 78e3451da95a48b28a926e9d07521e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099704450
+status: 3
+tags: []
+user_id: kellyliu

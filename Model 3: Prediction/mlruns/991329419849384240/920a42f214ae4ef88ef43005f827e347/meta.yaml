@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/920a42f214ae4ef88ef43005f827e347/artifacts
+end_time: 1714111358738
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 920a42f214ae4ef88ef43005f827e347
+run_name: rare-flea-458
+run_uuid: 920a42f214ae4ef88ef43005f827e347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111357454
+status: 3
+tags: []
+user_id: kellyliu

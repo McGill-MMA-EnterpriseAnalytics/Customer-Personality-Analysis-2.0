@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/b30ef951641844c4a249b416a158ddfe/artifacts
+end_time: 1714111963037
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: b30ef951641844c4a249b416a158ddfe
+run_name: clumsy-chimp-922
+run_uuid: b30ef951641844c4a249b416a158ddfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111961503
+status: 3
+tags: []
+user_id: kellyliu

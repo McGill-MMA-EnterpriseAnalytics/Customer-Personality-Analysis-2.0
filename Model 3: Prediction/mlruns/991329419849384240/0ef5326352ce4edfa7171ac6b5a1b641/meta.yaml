@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/0ef5326352ce4edfa7171ac6b5a1b641/artifacts
+end_time: 1714099666921
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 0ef5326352ce4edfa7171ac6b5a1b641
+run_name: selective-robin-163
+run_uuid: 0ef5326352ce4edfa7171ac6b5a1b641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099665338
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/2d13a2d744a54e4c9071a496b477b17e/artifacts
+end_time: 1714111369873
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 2d13a2d744a54e4c9071a496b477b17e
+run_name: beautiful-bee-879
+run_uuid: 2d13a2d744a54e4c9071a496b477b17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111368447
+status: 3
+tags: []
+user_id: kellyliu

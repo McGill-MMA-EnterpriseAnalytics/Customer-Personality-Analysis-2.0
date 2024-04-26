@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/3222c213a8ef4fb7bac3df55b653bb0d/artifacts
+end_time: 1714111494627
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 3222c213a8ef4fb7bac3df55b653bb0d
+run_name: unruly-shrike-767
+run_uuid: 3222c213a8ef4fb7bac3df55b653bb0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111493113
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/21013a67a3234c64aa7e345909c5ef1a/artifacts
+end_time: 1714111355772
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 21013a67a3234c64aa7e345909c5ef1a
+run_name: traveling-sloth-977
+run_uuid: 21013a67a3234c64aa7e345909c5ef1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111354323
+status: 3
+tags: []
+user_id: kellyliu

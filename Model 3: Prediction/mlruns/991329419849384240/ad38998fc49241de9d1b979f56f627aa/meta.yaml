@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/ad38998fc49241de9d1b979f56f627aa/artifacts
+end_time: 1714111333457
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: ad38998fc49241de9d1b979f56f627aa
+run_name: unleashed-mole-19
+run_uuid: ad38998fc49241de9d1b979f56f627aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111332129
+status: 3
+tags: []
+user_id: kellyliu

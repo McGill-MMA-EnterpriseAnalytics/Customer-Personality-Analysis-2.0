@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/f7f54e5ddf0642b3b83dd98492204328/artifacts
+end_time: 1714099710857
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: f7f54e5ddf0642b3b83dd98492204328
+run_name: flawless-shark-357
+run_uuid: f7f54e5ddf0642b3b83dd98492204328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099709158
+status: 3
+tags: []
+user_id: kellyliu

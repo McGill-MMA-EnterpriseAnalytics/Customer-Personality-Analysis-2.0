@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/d0bc07be6a3c4732a91437f25be2917f/artifacts
+end_time: 1714099683775
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: d0bc07be6a3c4732a91437f25be2917f
+run_name: peaceful-fowl-875
+run_uuid: d0bc07be6a3c4732a91437f25be2917f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099681976
+status: 3
+tags: []
+user_id: kellyliu

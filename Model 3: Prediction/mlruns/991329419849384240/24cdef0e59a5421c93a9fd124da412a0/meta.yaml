@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/24cdef0e59a5421c93a9fd124da412a0/artifacts
+end_time: 1714111371210
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 24cdef0e59a5421c93a9fd124da412a0
+run_name: bedecked-trout-157
+run_uuid: 24cdef0e59a5421c93a9fd124da412a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111369882
+status: 3
+tags: []
+user_id: kellyliu

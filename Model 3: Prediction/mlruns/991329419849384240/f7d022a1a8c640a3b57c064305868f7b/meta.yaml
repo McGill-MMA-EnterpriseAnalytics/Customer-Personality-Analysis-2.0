@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/f7d022a1a8c640a3b57c064305868f7b/artifacts
+end_time: 1714111542853
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: f7d022a1a8c640a3b57c064305868f7b
+run_name: delicate-grouse-172
+run_uuid: f7d022a1a8c640a3b57c064305868f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111540921
+status: 3
+tags: []
+user_id: kellyliu

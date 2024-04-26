@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/417938bee63f48249e760db1e98af696/artifacts
+end_time: 1714111525763
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 417938bee63f48249e760db1e98af696
+run_name: clean-turtle-226
+run_uuid: 417938bee63f48249e760db1e98af696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111523908
+status: 3
+tags: []
+user_id: kellyliu

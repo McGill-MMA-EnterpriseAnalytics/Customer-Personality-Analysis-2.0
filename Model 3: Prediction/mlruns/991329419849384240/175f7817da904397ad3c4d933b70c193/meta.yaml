@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/175f7817da904397ad3c4d933b70c193/artifacts
+end_time: 1714111343164
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 175f7817da904397ad3c4d933b70c193
+run_name: nebulous-skunk-592
+run_uuid: 175f7817da904397ad3c4d933b70c193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111341856
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/901bdf9e98c3456790e6ad9dbbb9f61f/artifacts
+end_time: 1714112013924
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 901bdf9e98c3456790e6ad9dbbb9f61f
+run_name: adventurous-moth-171
+run_uuid: 901bdf9e98c3456790e6ad9dbbb9f61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112012128
+status: 3
+tags: []
+user_id: kellyliu

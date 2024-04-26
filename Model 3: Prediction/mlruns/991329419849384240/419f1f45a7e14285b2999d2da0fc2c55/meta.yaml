@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/419f1f45a7e14285b2999d2da0fc2c55/artifacts
+end_time: 1714111515846
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 419f1f45a7e14285b2999d2da0fc2c55
+run_name: valuable-flea-415
+run_uuid: 419f1f45a7e14285b2999d2da0fc2c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111514538
+status: 3
+tags: []
+user_id: kellyliu

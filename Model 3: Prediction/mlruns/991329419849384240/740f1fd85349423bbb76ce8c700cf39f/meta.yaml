@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/740f1fd85349423bbb76ce8c700cf39f/artifacts
+end_time: 1714099724429
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 740f1fd85349423bbb76ce8c700cf39f
+run_name: skillful-stoat-443
+run_uuid: 740f1fd85349423bbb76ce8c700cf39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099723132
+status: 3
+tags: []
+user_id: kellyliu

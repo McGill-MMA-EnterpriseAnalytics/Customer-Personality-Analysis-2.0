@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/f04014db1b394969b0085ee381de6e22/artifacts
+end_time: 1714111539221
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: f04014db1b394969b0085ee381de6e22
+run_name: judicious-foal-830
+run_uuid: f04014db1b394969b0085ee381de6e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111537752
+status: 3
+tags: []
+user_id: kellyliu

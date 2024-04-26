@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/1258f9ccb6c842ffbc54d227b3b67157/artifacts
+end_time: 1714111372619
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 1258f9ccb6c842ffbc54d227b3b67157
+run_name: dapper-dolphin-828
+run_uuid: 1258f9ccb6c842ffbc54d227b3b67157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111371219
+status: 3
+tags: []
+user_id: kellyliu

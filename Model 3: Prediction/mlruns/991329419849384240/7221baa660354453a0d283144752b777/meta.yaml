@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/7221baa660354453a0d283144752b777/artifacts
+end_time: 1714111357444
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 7221baa660354453a0d283144752b777
+run_name: sedate-goose-583
+run_uuid: 7221baa660354453a0d283144752b777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111355782
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/eff2fab904bf4c65baa77829859329a7/artifacts
+end_time: 1714111379524
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: eff2fab904bf4c65baa77829859329a7
+run_name: luminous-loon-777
+run_uuid: eff2fab904bf4c65baa77829859329a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111378070
+status: 3
+tags: []
+user_id: kellyliu

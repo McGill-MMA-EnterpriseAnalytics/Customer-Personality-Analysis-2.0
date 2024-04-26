@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/decacb1fd540493890b9bdef9a2483d5/artifacts
+end_time: 1714111527735
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: decacb1fd540493890b9bdef9a2483d5
+run_name: adaptable-mole-173
+run_uuid: decacb1fd540493890b9bdef9a2483d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111525773
+status: 3
+tags: []
+user_id: kellyliu

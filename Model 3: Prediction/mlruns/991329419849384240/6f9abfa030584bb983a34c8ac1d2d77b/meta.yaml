@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/6f9abfa030584bb983a34c8ac1d2d77b/artifacts
+end_time: 1714112018850
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 6f9abfa030584bb983a34c8ac1d2d77b
+run_name: bedecked-shrew-906
+run_uuid: 6f9abfa030584bb983a34c8ac1d2d77b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112017158
+status: 3
+tags: []
+user_id: kellyliu

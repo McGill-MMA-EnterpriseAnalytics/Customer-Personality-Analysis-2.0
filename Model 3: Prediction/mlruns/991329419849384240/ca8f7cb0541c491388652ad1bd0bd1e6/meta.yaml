@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/ca8f7cb0541c491388652ad1bd0bd1e6/artifacts
+end_time: 1714111349912
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: ca8f7cb0541c491388652ad1bd0bd1e6
+run_name: classy-frog-354
+run_uuid: ca8f7cb0541c491388652ad1bd0bd1e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111348602
+status: 3
+tags: []
+user_id: kellyliu

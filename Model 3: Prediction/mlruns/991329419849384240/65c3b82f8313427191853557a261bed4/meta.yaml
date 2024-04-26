@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/65c3b82f8313427191853557a261bed4/artifacts
+end_time: 1714111344494
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 65c3b82f8313427191853557a261bed4
+run_name: fortunate-steed-97
+run_uuid: 65c3b82f8313427191853557a261bed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111343174
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/1929ecc39747488192a762db23884757/artifacts
+end_time: 1714099709147
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 1929ecc39747488192a762db23884757
+run_name: invincible-yak-510
+run_uuid: 1929ecc39747488192a762db23884757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099707412
+status: 3
+tags: []
+user_id: kellyliu

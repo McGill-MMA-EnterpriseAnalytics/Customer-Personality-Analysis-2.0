@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/4837cb8a332442f69eb04f7b79eb4d28/artifacts
+end_time: 1714111999493
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 4837cb8a332442f69eb04f7b79eb4d28
+run_name: suave-dolphin-883
+run_uuid: 4837cb8a332442f69eb04f7b79eb4d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111998064
+status: 3
+tags: []
+user_id: kellyliu

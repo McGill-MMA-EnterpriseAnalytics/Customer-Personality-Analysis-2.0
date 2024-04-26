@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/738c354958454668849374be80d1d4dc/artifacts
+end_time: 1714111345845
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 738c354958454668849374be80d1d4dc
+run_name: auspicious-hound-250
+run_uuid: 738c354958454668849374be80d1d4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111344503
+status: 3
+tags: []
+user_id: kellyliu

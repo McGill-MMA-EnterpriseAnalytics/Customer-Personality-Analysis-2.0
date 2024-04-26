@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/9b4a308edd854d6f93f09f08143bddde/artifacts
+end_time: 1714111361416
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 9b4a308edd854d6f93f09f08143bddde
+run_name: languid-swan-14
+run_uuid: 9b4a308edd854d6f93f09f08143bddde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111360123
+status: 3
+tags: []
+user_id: kellyliu

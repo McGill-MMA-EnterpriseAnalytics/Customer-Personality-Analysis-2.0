@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/187248dc4828474baa1c3b6fd6ebb144/artifacts
+end_time: 1714099689100
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 187248dc4828474baa1c3b6fd6ebb144
+run_name: polite-midge-758
+run_uuid: 187248dc4828474baa1c3b6fd6ebb144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099687695
+status: 3
+tags: []
+user_id: kellyliu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/72c3835710334374b18e675baa13313d/artifacts
+end_time: 1714099697520
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 72c3835710334374b18e675baa13313d
+run_name: secretive-frog-246
+run_uuid: 72c3835710334374b18e675baa13313d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099696140
+status: 3
+tags: []
+user_id: kellyliu

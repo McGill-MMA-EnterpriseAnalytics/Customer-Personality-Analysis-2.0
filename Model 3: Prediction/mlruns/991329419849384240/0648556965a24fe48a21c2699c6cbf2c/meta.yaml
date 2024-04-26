@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/0648556965a24fe48a21c2699c6cbf2c/artifacts
+end_time: 1714111487325
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 0648556965a24fe48a21c2699c6cbf2c
+run_name: rare-kit-837
+run_uuid: 0648556965a24fe48a21c2699c6cbf2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111485835
+status: 3
+tags: []
+user_id: kellyliu

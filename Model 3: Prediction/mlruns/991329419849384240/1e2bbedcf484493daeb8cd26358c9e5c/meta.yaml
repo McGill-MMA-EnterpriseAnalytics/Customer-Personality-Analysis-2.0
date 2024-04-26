@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/991329419849384240/1e2bbedcf484493daeb8cd26358c9e5c/artifacts
+end_time: 1714099716884
+entry_point_name: ''
+experiment_id: '991329419849384240'
+lifecycle_stage: active
+run_id: 1e2bbedcf484493daeb8cd26358c9e5c
+run_name: rare-turtle-112
+run_uuid: 1e2bbedcf484493daeb8cd26358c9e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714099715403
+status: 3
+tags: []
+user_id: kellyliu
