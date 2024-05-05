@@ -3,7 +3,10 @@ import requests
 import json
 
 # Define the URL of the MLflow model
-MLFLOW_API_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+prediction_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+Cmp_Attitude_Recency_model_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+cluster_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+
 
 # Streamlit app layout
 st.title('ML Model Prediction Interface')
@@ -14,7 +17,27 @@ selected_tab = st.sidebar.radio("Select Functionality", tabs)
 
 # Display content based on selected tab
 if selected_tab == "Causal Inference":
-    st.write("Causal Inference tab content goes here")
+    # Button to call the model
+    if st.button('Run Causal Inference Model'):
+        # Prepare the data in the format the MLflow model expects
+        Target = st.number_input("Enter target")
+        Treatment = st.number_input("Enter treatment")
+        ConfoundingVar = st.number_input("Enter Confounding Variables")
+        
+        data = json.dumps({
+            "columns": ["Target", "Treatment", "Confounding Variables"],
+            "data": [[Target, Treatment, ConfoundingVar]]
+        })
+        headers = {'Content-Type': 'application/json'}
+        
+        # Send the data to the model
+        response = requests.post(MLFLOW_API_URL, data=data, headers=headers)
+        
+        if response.status_code == 200:
+            result = response.json()
+            st.success(f'Result: {result}')
+        else:
+            st.error('Failed to get prediction from the model.')
 elif selected_tab == "Clustering":
     st.write("Clustering tab content goes here")
 elif selected_tab == "Segment Prediction":
