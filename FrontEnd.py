@@ -57,17 +57,24 @@ elif selected_tab == "Clustering":
         else:
             st.error('Failed to get prediction from the model.')
 elif selected_tab == "Segment Prediction":
-    # Input fields for user data
-    Total_amount = st.number_input("Total Amount", value=0.0)
-    Is_Parent = st.selectbox("Is Parent", [True, False])
-    Total_Children = st.number_input("Total Children", value=0, step=1)
-    NumDealsPurchases = st.number_input("Number of Deals/Purchases", value=0, step=1)
-    Income = st.number_input("Income", value=0.0)
-    Family_Size = st.number_input("Family Size", value=0, step=1)
-    NumWebVisitsMonth = st.number_input("Number of Web Visits per Month", value=0, step=1)
-    Total_purchase = st.number_input("Total Purchase", value=0.0)
-    MntWines = st.number_input("Amount Spent on Wines", value=0.0)
-    Teenhome = st.number_input("Number of Teenagers at Home", value=0, step=1)
+    # Layout adjustment for two columns
+    col1, col2 = st.columns(2)
+    
+    # First column
+    with col1:
+        Total_amount = st.number_input("Total Amount", value=0.0)
+        Is_Parent = st.selectbox("Is Parent", [True, False])
+        Total_Children = st.number_input("Total Children", value=0, step=1)
+        NumDealsPurchases = st.number_input("Number of Deals/Purchases", value=0, step=1)
+    
+    # Second column
+    with col2:
+        Income = st.number_input("Income", value=0.0)
+        Family_Size = st.number_input("Family Size", value=0, step=1)
+        NumWebVisitsMonth = st.number_input("Number of Web Visits per Month", value=0, step=1)
+        Total_purchase = st.number_input("Total Purchase", value=0.0)
+        MntWines = st.number_input("Amount Spent on Wines", value=0.0)
+        Teenhome = st.number_input("Number of Teenagers at Home", value=0, step=1)
 
     # Button to make prediction
     if st.button('Predict'):
