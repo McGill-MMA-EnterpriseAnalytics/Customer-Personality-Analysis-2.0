@@ -17,14 +17,14 @@ selected_tab = st.sidebar.radio("Select Functionality", tabs)
 
 # Display content based on selected tab
 if selected_tab == "Causal Inference":
+    # Prepare the data in the format the MLflow model expects
+    Target = st.number_input("Enter target")
+    Treatment = st.number_input("Enter treatment")
+    ConfoundingVar = st.number_input("Enter Confounding Variables")
+    
     # Button to call the model
     if st.button('Run Causal Inference Model'):
-        # Prepare the data in the format the MLflow model expects
-        Target = st.number_input("Enter target")
-        Treatment = st.number_input("Enter treatment")
-        ConfoundingVar = st.number_input("Enter Confounding Variables")
-        
-        data = json.dumps({
+            data = json.dumps({
             "columns": ["Target", "Treatment", "Confounding Variables"],
             "data": [[Target, Treatment, ConfoundingVar]]
         })
