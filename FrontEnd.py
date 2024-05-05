@@ -17,9 +17,17 @@ selected_tab = st.sidebar.radio("Select Functionality", tabs)
 # Display content based on selected tab
 if selected_tab == "Causal Inference":
     # Prepare the data in the format the MLflow model expects
-    Target = st.number_input("Enter target")
-    Treatment = st.number_input("Enter treatment")
-    ConfoundingVar = st.number_input("Enter Confounding Variables")
+    target_options = ['Recency', 'Total_purchase', 'Total_amount']
+    Target = st.selectbox("Select Target", target_options)
+    
+    treatment_options = ['Income_Category_High', 'Is_Parent', 'Cmp_Attitude', 'Complain']
+    Treatment = st.selectbox("Select Treatment", treatment_options)
+    
+    confounding_options = ['Income_Category_High', 'Income_Category_Low', 'Income_Category_Medium',
+                           'Complain', 'Is_Parent', 'Cmp_Attitude', 'Family_Size', 'Age',
+                           'Member_Year', 'Total_amount', 'Total_purchase',
+                           'NumWebVisitsMonth', 'NumDealsPurchases', 'Recency']
+    ConfoundingVar = st.selectbox("Select Confounding Variable", confounding_options)
     
     # Button to call the model
     if st.button('Run Causal Inference Model'):
