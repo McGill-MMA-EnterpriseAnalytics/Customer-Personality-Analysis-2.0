@@ -3,9 +3,9 @@ import requests
 import json
 
 # Define the URL of the MLflow model
-prediction_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
-Causal_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
-cluster_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+prediction_api_URL = "http://localhost:8000/predict/"
+Causal_api_URL = "http://localhost:8000/causal/"
+cluster_api_URL = "http://localhost:8000/clsuter/"
 
 # Streamlit app layout
 st.title('Customer-Personality-Analysis-2.0 Customer Insight Hub')

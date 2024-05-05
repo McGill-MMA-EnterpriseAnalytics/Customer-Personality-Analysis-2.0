@@ -11,7 +11,7 @@ model = load_model()
 class PredictRequest(BaseModel):
     features: list
 
-@app.post("/predict/")
+@app.post("/cluster/")
 async def get_prediction(request: PredictRequest):
     try:
         # Convert request to numpy array
