@@ -43,6 +43,9 @@ The Customer Personality Analysis 2.0 project builds upon insights gained from v
    - Evaluated feature impact on each part of RFM to tailor marketing strategies accordingly.
    - Utilized MLflow for tracking model performance across iterations.
 
+3. **Prediction Models**:
+   - Utilized the clusters from clustering result as target to predict new customer's segment.
+
 ## Business Value
 1. **Segmentation Impact**:
    - Tailored marketing strategies for individual clusters increase promotion effectiveness and customer engagement.
