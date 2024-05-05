@@ -77,3 +77,7 @@ The Customer Personality Analysis 2.0 project builds upon insights gained from v
 
 ## Conclusion
 Version 2.0 introduces soft clustering models and granular feature analysis, leading to refined customer segmentation and better marketing strategies. Future work will focus on expanding the data sources, improving causal inference models, and incorporating insights into business strategies.
+
+4. **Streamlit App**:
+- App Link: https://customer-personality-analysis-20-9tralw7d3rfcug58nhdocq.streamlit.app/
+Remark: please note that the models are deployed on local server.
