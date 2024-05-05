@@ -46,29 +46,24 @@ if selected_tab == "Causal Inference":
         else:
             st.error('Failed to get prediction from the model.')
 elif selected_tab == "Clustering":
-    st.write("Clustering tab content goes here")
-elif selected_tab == "Segment Prediction":
     # Button to make prediction
     if st.button('Predict'):
-        # Prepare the data in the format the MLflow model expects
-        feature_1 = st.number_input("Enter feature 1")
-        feature_2 = st.number_input("Enter feature 2")
-        feature_3 = st.number_input("Enter feature 3")
-        
-        data = json.dumps({
-            "columns": ["feature_1", "feature_2", "feature_3"],
-            "data": [[feature_1, feature_2, feature_3]]
-        })
-        headers = {'Content-Type': 'application/json'}
-        
         # Send the data to the model
-        response = requests.post(prediction_api_URL, data=data, headers=headers)
+        response = requests.post(prediction_api_URL)
         
         if response.status_code == 200:
             result = response.json()
             st.success(f'Result: {result}')
         else:
             st.error('Failed to get prediction from the model.')
-
-    # Displaying the model output
-    st.write('The model output will be displayed here once you input the features and click predict.')
+elif selected_tab == "Segment Prediction":
+    # Button to make prediction
+    if st.button('Predict'):
+        # Send the data to the model
+        response = requests.post(prediction_api_URL)
+        
+        if response.status_code == 200:
+            result = response.json()
+            st.success(f'Result: {result}')
+        else:
+            st.error('Failed to get prediction from the model.')
