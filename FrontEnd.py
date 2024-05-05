@@ -8,7 +8,7 @@ Causal_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 cluster_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 
 # Streamlit app layout
-st.title('ML Model Prediction Interface')
+st.title('Customer-Personality-Analysis-2.0 Customer Insight Hub')
 
 # Add tabs for different functionalities
 tabs = ["Causal Inference", "Clustering", "Segment Prediction"]
