@@ -4,7 +4,7 @@ import json
 
 # Define the URL of the MLflow model
 prediction_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
-Cmp_Attitude_Recency_model_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
+Causal_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 cluster_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 
 # Streamlit app layout
@@ -38,7 +38,7 @@ if selected_tab == "Causal Inference":
         headers = {'Content-Type': 'application/json'}
         
         # Send the data to the model
-        response = requests.post(prediction_api_URL, data=data, headers=headers)
+        response = requests.post(Causal_api_URL, data=data, headers=headers)
         
         if response.status_code == 200:
             result = response.json()
@@ -46,10 +46,10 @@ if selected_tab == "Causal Inference":
         else:
             st.error('Failed to get prediction from the model.')
 elif selected_tab == "Clustering":
-    # Button to make prediction
-    if st.button('Predict'):
+    # Button to run clustering
+    if st.button('Clustering'):
         # Send the data to the model
-        response = requests.post(prediction_api_URL)
+        response = requests.post(cluster_api_URL)
         
         if response.status_code == 200:
             result = response.json()
