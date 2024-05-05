@@ -7,7 +7,6 @@ prediction_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 Cmp_Attitude_Recency_model_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 cluster_api_URL = "https://<databricks-instance>/api/2.0/mlflow/invocations"
 
-
 # Streamlit app layout
 st.title('ML Model Prediction Interface')
 
@@ -24,14 +23,14 @@ if selected_tab == "Causal Inference":
     
     # Button to call the model
     if st.button('Run Causal Inference Model'):
-            data = json.dumps({
+        data = json.dumps({
             "columns": ["Target", "Treatment", "Confounding Variables"],
             "data": [[Target, Treatment, ConfoundingVar]]
         })
         headers = {'Content-Type': 'application/json'}
         
         # Send the data to the model
-        response = requests.post(MLFLOW_API_URL, data=data, headers=headers)
+        response = requests.post(prediction_api_URL, data=data, headers=headers)
         
         if response.status_code == 200:
             result = response.json()
@@ -55,7 +54,7 @@ elif selected_tab == "Segment Prediction":
         headers = {'Content-Type': 'application/json'}
         
         # Send the data to the model
-        response = requests.post(MLFLOW_API_URL, data=data, headers=headers)
+        response = requests.post(prediction_api_URL, data=data, headers=headers)
         
         if response.status_code == 200:
             result = response.json()
