@@ -27,7 +27,7 @@ if selected_tab == "Causal Inference":
                            'Complain', 'Is_Parent', 'Cmp_Attitude', 'Family_Size', 'Age',
                            'Member_Year', 'Total_amount', 'Total_purchase',
                            'NumWebVisitsMonth', 'NumDealsPurchases', 'Recency']
-    ConfoundingVar = st.selectbox("Select Confounding Variable", confounding_options)
+    ConfoundingVar = st.multiselect("Select Confounding Variables", confounding_options)
     
     # Button to call the model
     if st.button('Run Causal Inference Model'):
