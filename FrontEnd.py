@@ -12,7 +12,7 @@ st.title('Customer-Personality-Analysis-2.0 Customer Insight Hub')
 
 # Add tabs for different functionalities
 tabs = ["Causal Inference", "Clustering", "Segment Prediction"]
-selected_tab = st.sidebar.radio("Select Functionality", tabs)
+selected_tab = st.sidebar.radio("Select Model", tabs)
 
 # Display content based on selected tab
 if selected_tab == "Causal Inference":
